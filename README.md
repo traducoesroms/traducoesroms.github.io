@@ -1,3 +1,9 @@
-# traducoesroms.github.io
+# Traduções
 
-* [Game Boy](game-boy/README.md)
+Este projeto busca trazer informações úteis sobre as traduções catalogada.
+
+## Plataformas
+
+* [Game Boy](traducoes/game-boy/)
+* [Game Boy Color](traducoes/game-boy-color/)
+* [Game Boy Advance](traducoes/game-boy-advance/)
