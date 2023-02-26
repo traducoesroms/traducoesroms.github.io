@@ -23,7 +23,7 @@
 
 ## Autores
 
-| Autor | Papel na tradução |
+| Autor(a) | Papel na tradução |
 | ----------- | ----------- |
 | [Patryck Padilha de Oliveira](../../../autores/patryck-padilha-de-oliveira/) | Tradução |
 | [ajkmetiuk](../../../autores/ajkmetiuk/) | Revisão |
@@ -38,9 +38,9 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
-| https://patryckpo.com/traducoes/gb/adventure-island/ | Sim | Sim |
-| https://www.romhacking.net.br/index.php?topic=754 | Sim | Sim |
-| https://romhackers.org/traducoes/portatil/game-boy/adventure-island-patryck/ | Não | Não |
+| [https://patryckpo.com/traducoes/gb/adventure-island/](https://patryckpo.com/traducoes/gb/adventure-island/) | Sim | Sim |
+| [https://www.romhacking.net.br/index.php?topic=754](https://www.romhacking.net.br/index.php?topic=754) | Sim | Sim |
+| [https://romhackers.org/traducoes/portatil/game-boy/adventure-island-patryck/](https://romhackers.org/traducoes/portatil/game-boy/adventure-island-patryck/) | Não | Não |
 
 ## Imagens da tradução
 
