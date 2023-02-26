@@ -41,3 +41,9 @@
 | https://patryckpo.com/traducoes/gb/adventure-island/ | Sim | Sim |
 | https://www.romhacking.net.br/index.php?topic=754 | Sim | Sim |
 | https://romhackers.org/traducoes/portatil/game-boy/adventure-island-patryck/ | Não | Não |
+
+## Imagens da tradução
+
+![Imagem de exemplo da tradução 1](1.png)
+![Imagem de exemplo da tradução 2](2.png)
+![Imagem de exemplo da tradução 3](3.png)
