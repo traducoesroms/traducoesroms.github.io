@@ -1,0 +1,10 @@
+# Arara
+
+## Traduções
+
+| Plataforma | Jogo | Versão | Autores |
+| ----------- | ----------- | ----------- | ----------- |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Castlevania - Circle of the Moon](../../traducoes/game-boy-advance/castlevania-circle-of-the-moon_solid_one-et-al/) | 1.0 | [Solid\_One](../../autores/solid_one/), [Joapeer](../../autores/joapeer/), [Arara](../../autores/arara/) e [spyblack](../../autores/spyblack/) |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Metroid Fusion](../../traducoes/game-boy-advance/metroid-fusion__unknown_-et-al/) | 1.2 | [\_\#UNKNOWN\#\_](../../autores/unknown/), [Solid\_One](../../autores/solid_one/), [Joapeer](../../autores/joapeer/), [Darkl0rd](../../autores/darkl0rd/), [Arara](../../autores/arara/), [Odin](../../autores/odin/), [Gambas](../../autores/gambas/), [Anonymous\_rs](../../autores/anonymous_rs/), [Sonic\_Spin](../../autores/sonic_spin/) e [Kmikz](../../autores/kmikz/) |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Shaman King - Master of Spirits](../../traducoes/game-boy-advance/shaman-king-master-of-spirits_solid_one-et-al/) | 2.0 | [Solid\_One](../../autores/solid_one/), [Ninho](../../autores/ninho/), [Odin](../../autores/odin/) e [Arara](../../autores/arara/) |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Shaman King - Master of Spirits 2](../../traducoes/game-boy-advance/shaman-king-master-of-spirits-2_solid_one-arara/) | 2.0 | [Solid\_One](../../autores/solid_one/) e [Arara](../../autores/arara/) |
