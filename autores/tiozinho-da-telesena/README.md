@@ -2,9 +2,9 @@
 
 ## Traduções
 
-| Plataforma | Jogo | Versão | Autores |
-| ----------- | ----------- | ----------- | ----------- |
-| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Crazy Chase](../../traducoes/game-boy-advance/crazy-chase_tiozinho-da-telesena-diegohh/) | 1.0 | [Tiozinho da Telesena](../../autores/tiozinho-da-telesena/) e [DiegoHH](../../autores/diegohh/) |
+| Plataforma | Jogo | Versão | Grupos | Autores |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Crazy Chase](../../traducoes/game-boy-advance/crazy-chase_tiozinho-da-telesena-diegohh/) | 1.0 | [PO\.B\.R\.E](../../grupos/pobre/) | [Tiozinho da Telesena](../../autores/tiozinho-da-telesena/) e [DiegoHH](../../autores/diegohh/) |
 
 ## Sites
 

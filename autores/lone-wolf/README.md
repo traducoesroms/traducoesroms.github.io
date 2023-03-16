@@ -2,9 +2,9 @@
 
 ## Traduções
 
-| Plataforma | Jogo | Versão | Autores |
-| ----------- | ----------- | ----------- | ----------- |
-| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Drill Dozer](../../traducoes/game-boy-advance/drill-dozer_lone-wolf/) | 1.8 | [Lone Wolf](../../autores/lone-wolf/) |
+| Plataforma | Jogo | Versão | Grupos | Autores |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Drill Dozer](../../traducoes/game-boy-advance/drill-dozer_lone-wolf/) | 1.8 |  | [Lone Wolf](../../autores/lone-wolf/) |
 
 ## Sites
 

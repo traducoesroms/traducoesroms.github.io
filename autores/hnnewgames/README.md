@@ -2,9 +2,9 @@
 
 ## Traduções
 
-| Plataforma | Jogo | Versão | Autores |
-| ----------- | ----------- | ----------- | ----------- |
-| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Dead to Rights](../../traducoes/game-boy-advance/dead-to-rights_hnnewgames/) | 1.0 | [hnnewgames](../../autores/hnnewgames/) |
+| Plataforma | Jogo | Versão | Grupos | Autores |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Dead to Rights](../../traducoes/game-boy-advance/dead-to-rights_hnnewgames/) | 1.0 |  | [hnnewgames](../../autores/hnnewgames/) |
 
 ## Sites
 

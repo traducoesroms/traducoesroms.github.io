@@ -2,9 +2,9 @@
 
 ## Traduções
 
-| Plataforma | Jogo | Versão | Autores |
-| ----------- | ----------- | ----------- | ----------- |
-| [Game Boy](../../traducoes/game-boy/) | [Mega Man - Dr. Wily's Revenge](../../traducoes/game-boy/mega-man-dr-wilys-revenge_emuboarding/) |  | [Emuboarding](../../autores/emuboarding/) |
+| Plataforma | Jogo | Versão | Grupos | Autores |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Game Boy](../../traducoes/game-boy/) | [Mega Man - Dr. Wily's Revenge](../../traducoes/game-boy/mega-man-dr-wilys-revenge_emuboarding/) |  | [EmuNow](../../grupos/emunow/) | [Emuboarding](../../autores/emuboarding/) |
 
 ## Sites
 
