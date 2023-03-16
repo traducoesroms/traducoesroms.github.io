@@ -9,4 +9,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://www.sstrans.hpg.com.br](http://www.sstrans.hpg.com.br) | Não |

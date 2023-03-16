@@ -9,4 +9,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [https://bluntbit.wordpress.com/](https://bluntbit.wordpress.com/) | Sim |

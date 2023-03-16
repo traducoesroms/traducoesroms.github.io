@@ -9,4 +9,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [https://www.jumpmanclubbrasil.com.br/](https://www.jumpmanclubbrasil.com.br/) | Sim |

@@ -10,4 +10,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://www.gbmaniacos.com/](http://www.gbmaniacos.com/) | Não |

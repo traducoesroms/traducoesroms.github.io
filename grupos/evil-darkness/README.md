@@ -11,5 +11,6 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://membres.lycos.fr/edromhack/](http://membres.lycos.fr/edromhack/) | Não |
 | [http://www.edbr.rg3.net](http://www.edbr.rg3.net) | Não |

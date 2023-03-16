@@ -10,4 +10,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://www.romhackbr.rg3.net/](http://www.romhackbr.rg3.net/) | Não |

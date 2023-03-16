@@ -9,4 +9,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [https://hnnewgamesofficial.blogspot.com/](https://hnnewgamesofficial.blogspot.com/) | Sim |

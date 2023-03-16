@@ -9,4 +9,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://www.gutotraducoes.cjb.net](http://www.gutotraducoes.cjb.net) | Não |

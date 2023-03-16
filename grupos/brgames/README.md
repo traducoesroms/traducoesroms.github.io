@@ -12,4 +12,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [https://www.brgames.org/](https://www.brgames.org/) | Sim |

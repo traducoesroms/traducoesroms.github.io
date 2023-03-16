@@ -9,4 +9,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [https://lonewolfromhacking.blogspot.com/](https://lonewolfromhacking.blogspot.com/) | Não |

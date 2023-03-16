@@ -9,5 +9,6 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://tiozinho.cjb.net](http://tiozinho.cjb.net) | Não |
 | [https://tiozinhopobre.wixsite.com/repositorio](https://tiozinhopobre.wixsite.com/repositorio) | Sim |

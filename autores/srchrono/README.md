@@ -9,4 +9,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [https://blogdochrono.blogspot.com/](https://blogdochrono.blogspot.com/) | Sim |

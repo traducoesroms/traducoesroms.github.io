@@ -26,6 +26,7 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [https://traduroms.github.io/](https://traduroms.github.io/) | Sim |
 | [http://traduroms.cjb.net/](http://traduroms.cjb.net/) | Não |
 | [http://www.traduroms.tsx.org](http://www.traduroms.tsx.org) | Não |

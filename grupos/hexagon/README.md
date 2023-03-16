@@ -11,4 +11,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://hexagon.romhack.net](http://hexagon.romhack.net) | Não |

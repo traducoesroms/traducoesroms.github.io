@@ -14,4 +14,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [https://romhackers.org/](https://romhackers.org/) | Sim |

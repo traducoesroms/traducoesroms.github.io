@@ -10,5 +10,6 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://brtranslations.no.sapo.pt/](http://brtranslations.no.sapo.pt/) | Não |
 | [http://www.brtranslations.cjb.net](http://www.brtranslations.cjb.net) | Não |

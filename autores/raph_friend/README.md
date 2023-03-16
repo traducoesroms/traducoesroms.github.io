@@ -10,4 +10,5 @@
 ## Sites
 
 | Site | Ativo |
+| ----------- | ----------- |
 | [http://www.raphsan.cjb.net](http://www.raphsan.cjb.net) | Não |
