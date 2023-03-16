@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Drill Dozer \(U\)\.gba | E60EC183 | 14DAB12E795098988D46B96885170538 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Drill Dozer \(U\)\.gba | E60EC183 | 14DAB12E795098988D46B96885170538 |
 
 ## Páginas sobre a tradução
 

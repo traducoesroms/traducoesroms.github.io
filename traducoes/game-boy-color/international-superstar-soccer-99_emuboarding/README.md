@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | International Superstar Soccer '99 \(U\) \[C\]\[\!\]\.gbc | 9D0290A7 | 36DF5EBE75980AC4409DEAD125247BCE |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| International Superstar Soccer '99 \(U\) \[C\]\[\!\]\.gbc | 9D0290A7 | 36DF5EBE75980AC4409DEAD125247BCE |
 
 ## Páginas sobre a tradução
 

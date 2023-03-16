@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Cliffhanger \(UE\) \[\!\]\.gb | AA133439 | B33D6F65F4A566D715CE480BFFD004AD |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Cliffhanger \(UE\) \[\!\]\.gb | AA133439 | B33D6F65F4A566D715CE480BFFD004AD |
 
 ## Páginas sobre a tradução
 

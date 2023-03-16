@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | SD Saint Seiya Paradise \(J\)\.gb | D6FE3C56 | 4D2EC4DA71D11F95367D9163C89B70F9 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| SD Saint Seiya Paradise \(J\)\.gb | D6FE3C56 | 4D2EC4DA71D11F95367D9163C89B70F9 |
 
 ## Páginas sobre a tradução
 

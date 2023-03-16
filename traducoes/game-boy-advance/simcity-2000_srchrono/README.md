@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | SimCity 2000 \(U\)\.gba | 733751B3 | 139B7E51D2F49DFFEEDE13E464BAFEEA |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| SimCity 2000 \(U\)\.gba | 733751B3 | 139B7E51D2F49DFFEEDE13E464BAFEEA |
 
 ## Páginas sobre a tradução
 

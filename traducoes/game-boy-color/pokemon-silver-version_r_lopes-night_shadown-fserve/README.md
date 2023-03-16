@@ -34,9 +34,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pokemon \- Silver Version \(UE\) \[C\]\[\!\]\.gbc | 8AD48636 | 2AC166169354E84D0E2D7CF4CB40B312 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pokemon \- Silver Version \(UE\) \[C\]\[\!\]\.gbc | 8AD48636 | 2AC166169354E84D0E2D7CF4CB40B312 |
 
 ## Páginas sobre a tradução
 

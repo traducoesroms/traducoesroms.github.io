@@ -27,9 +27,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Joe &amp; Mac \(U\) \[\!\]\.gb | 5DA86ED4 | A4627FB86C2B91FC0ACE4F628AA607E4 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Joe &amp; Mac \(U\) \[\!\]\.gb | 5DA86ED4 | A4627FB86C2B91FC0ACE4F628AA607E4 |
 
 ## Páginas sobre a tradução
 

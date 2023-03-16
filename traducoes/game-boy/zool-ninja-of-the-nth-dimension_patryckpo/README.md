@@ -29,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Zool \(U\) \[\!\]\.gb | EF54B46E | 52700EA227C3A31F170CCBC6A052A7A8 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Zool \(U\) \[\!\]\.gb | EF54B46E | 52700EA227C3A31F170CCBC6A052A7A8 |
 
 ## Páginas sobre a tradução
 

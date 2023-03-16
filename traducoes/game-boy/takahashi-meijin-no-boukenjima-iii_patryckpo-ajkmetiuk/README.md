@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Takahashi Meijin no Bouken Shima III \(J\)\.gb | F8FC0B41 | A291DD1F541FAC1D57019E4A3D0FFD08 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Takahashi Meijin no Bouken Shima III \(J\)\.gb | F8FC0B41 | A291DD1F541FAC1D57019E4A3D0FFD08 |
 
 ## Páginas sobre a tradução
 

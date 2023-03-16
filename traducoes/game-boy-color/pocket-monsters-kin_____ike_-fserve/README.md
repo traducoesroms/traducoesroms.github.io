@@ -34,10 +34,10 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pocket Monsters Kin \(J\) \(V1\.0\) \[C\]\[\!\]\.gbc | 524478D4 | 85BE569FE89F58C40F60480313314C67 |
-| IPS | Pocket Monsters Kin \(J\) \(V1\.1\) \[C\]\[\!\]\.gbc | 4EF7F2A5 | 79AECE8A042E4FA57ABA9455C4D21A97 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pocket Monsters Kin \(J\) \(V1\.0\) \[C\]\[\!\]\.gbc | 524478D4 | 85BE569FE89F58C40F60480313314C67 |
+| Pocket Monsters Kin \(J\) \(V1\.1\) \[C\]\[\!\]\.gbc | 4EF7F2A5 | 79AECE8A042E4FA57ABA9455C4D21A97 |
 
 ## Páginas sobre a tradução
 

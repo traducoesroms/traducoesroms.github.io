@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Powerpuff Girls, The \- Mojo Jojo A\-Go\-Go\! \(U\) \(M6\)\.gba | DFB57DCF | 28A2B3E44952944E29A168E5F17B5696 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Powerpuff Girls, The \- Mojo Jojo A\-Go\-Go\! \(U\) \(M6\)\.gba | DFB57DCF | 28A2B3E44952944E29A168E5F17B5696 |
 
 ## Páginas sobre a tradução
 

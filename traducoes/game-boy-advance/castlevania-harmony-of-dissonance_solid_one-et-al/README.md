@@ -35,9 +35,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Castlevania \- Harmony of Dissonance \(E\) \[\!\]\.gba | 521B3091 | E619F9DCD7EF3D4C6851834018B139BD |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Castlevania \- Harmony of Dissonance \(E\) \[\!\]\.gba | 521B3091 | E619F9DCD7EF3D4C6851834018B139BD |
 
 ## Páginas sobre a tradução
 

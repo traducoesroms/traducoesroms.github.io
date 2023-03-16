@@ -1,5 +1,7 @@
 # The Sims - Bustin' Out
 
+![Capa traduzida de The Sims - Bustin' Out](capa.png)
+
 ## Informações sobre o jogo
 
 | Tipo | Informação |
@@ -35,14 +37,15 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Sims, The \- Bustin' Out \(UE\) \(M6\)\.gba | ABAF519C | E429CE307FE06DBCD7724552FF0339D7 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Sims, The \- Bustin' Out \(UE\) \(M6\)\.gba | ABAF519C | E429CE307FE06DBCD7724552FF0339D7 |
 
 ## Páginas sobre a tradução
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://www.e4t.com.br/downloads/os-sims-dando-o-fora/](https://www.e4t.com.br/downloads/os-sims-dando-o-fora/) | Sim | Sim |
 | [https://www.romhacking.net.br/index.php?topic=1782](https://www.romhacking.net.br/index.php?topic=1782) | Sim | Sim, porém é necessário realizar login |
 | [https://joao13traducoes.com/2021/03/gba-sims-bustin-out-kosmus-e-cia/](https://joao13traducoes.com/2021/03/gba-sims-bustin-out-kosmus-e-cia/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 

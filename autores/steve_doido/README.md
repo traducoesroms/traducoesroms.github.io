@@ -1,0 +1,8 @@
+# Steve_Doido
+
+## Traduções
+
+| Plataforma | Jogo | Versão | Autores |
+| ----------- | ----------- | ----------- | ----------- |
+| [Nintendo DS](../../traducoes/nintendo-ds/) | [Ghost Trick - Phantom Detective](../../traducoes/nintendo-ds/ghost-trick-phantom-detective_djmatheusito-et-al/) | 1.1 | [djmatheusito](../../autores/djmatheusito/), [JinjoGuy](../../autores/jinjoguy/), [Gamerulez](../../autores/gamerulez/), [Dant](../../autores/dant/), [Uão](../../autores/uao/), [BMatSantos](../../autores/bmatsantos/), [BMaG](../../autores/bmag/), [Kosmus](../../autores/kosmus/), [Luco](../../autores/luco/), [Nathan](../../autores/nathan/), [Andra](../../autores/andra/), [Geraldox](../../autores/geraldox/), [DGShoe](../../autores/dgshoe/), [Adachi](../../autores/adachi/), [Dwlipey](../../autores/dwlipey/), [Mob](../../autores/mob/), [Tchinfsun](../../autores/tchinfsun/), [Steve\_Doido](../../autores/steve_doido/), [Ana Lee](../../autores/ana-lee/), [Guardinha](../../autores/guardinha/) e [RetroGamer](../../autores/retrogamer/) |
+| [Nintendo DS](../../traducoes/nintendo-ds/) | [Professor Layton and Pandora's Box](../../traducoes/nintendo-ds/professor-layton-and-pandoras-box_diegohh-et-al/) | 1.0 | [DiegoHH](../../autores/diegohh/), [Solid\_One](../../autores/solid_one/), [Sahgo](../../autores/sahgo/), [Steve\_Doido](../../autores/steve_doido/), [Gamerulez](../../autores/gamerulez/), [Magall](../../autores/magall/) e [Shagohod](../../autores/shagohod/) |

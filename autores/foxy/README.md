@@ -1,0 +1,7 @@
+# Foxy
+
+## Traduções
+
+| Plataforma | Jogo | Versão | Autores |
+| ----------- | ----------- | ----------- | ----------- |
+| [Nintendo DS](../../traducoes/nintendo-ds/) | [Apollo Justice - Ace Attorney](../../traducoes/nintendo-ds/apollo-justice-ace-attorney_diegohh-et-al/) | 1.2 | [DiegoHH](../../autores/diegohh/), [djmatheusito](../../autores/djmatheusito/), [Gamerulez](../../autores/gamerulez/), [Dant](../../autores/dant/), [Solid\_One](../../autores/solid_one/), [JinjoGuy](../../autores/jinjoguy/), [Sahgo](../../autores/sahgo/), [Nathan](../../autores/nathan/), [Dwlipey](../../autores/dwlipey/), [StarberryMilk](../../autores/starberrymilk/), [Gustavo](../../autores/gustavo/), [Gigi](../../autores/gigi/), [Mob](../../autores/mob/), [Silv3r](../../autores/silv3r/), [Venesios](../../autores/venesios/), [Dudu Silva](../../autores/dudu-silva/), [Jagohod](../../autores/jagohod/), [BMatSantos](../../autores/bmatsantos/), [Adachi](../../autores/adachi/), [Mysteriozo](../../autores/mysteriozo/), [Foxy](../../autores/foxy/), [Thecontrool](../../autores/thecontrool/), [Kosmus](../../autores/kosmus/), [Kazuma](../../autores/kazuma/), [BMaG](../../autores/bmag/), [Pacheco](../../autores/pacheco/), [Guixz](../../autores/guixz/), [Gabriel Andrade](../../autores/gabriel-andrade/), [Artoriuslima](../../autores/artoriuslima/), [Pedro Albuquerque](../../autores/pedro-albuquerque/), [Eduardo Yamane](../../autores/eduardo-yamane/), [Pain](../../autores/pain/), [Rn](../../autores/rn/), [RetroGamer](../../autores/retrogamer/) e [Guiguiba](../../autores/guiguiba/) |

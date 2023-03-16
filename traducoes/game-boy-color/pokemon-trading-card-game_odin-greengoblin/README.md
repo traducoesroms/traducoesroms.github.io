@@ -33,9 +33,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS e IPS\-EXE | Pokemon Trading Card Game \(U\) \[C\]\[\!\]\.gbc | 81069D53 | 219B2CC64E5A052003015D4BD4C622CD |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pokemon Trading Card Game \(U\) \[C\]\[\!\]\.gbc | 81069D53 | 219B2CC64E5A052003015D4BD4C622CD |
 
 ## Páginas sobre a tradução
 

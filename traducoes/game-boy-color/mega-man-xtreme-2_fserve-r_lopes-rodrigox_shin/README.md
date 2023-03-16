@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Mega Man Xtreme 2 \(U\) \[C\]\[\!\]\.gbc | 8FEDB6D8 | 1F64989765F605D05CBD013E7FFCC352 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Mega Man Xtreme 2 \(U\) \[C\]\[\!\]\.gbc | 8FEDB6D8 | 1F64989765F605D05CBD013E7FFCC352 |
 
 ## Páginas sobre a tradução
 

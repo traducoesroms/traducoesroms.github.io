@@ -1,5 +1,7 @@
 # Asterix
 
+![Capa traduzida de Asterix](capa.jpg)
+
 ## Informações sobre o jogo
 
 | Tipo | Informação |
@@ -27,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Asterix \(UE\) \(M5\) \[\!\]\.gb | 097FFE2C | 812DB832566202610BB1E42E643E2B93 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Asterix \(UE\) \(M5\) \[\!\]\.gb | 097FFE2C | 812DB832566202610BB1E42E643E2B93 |
 
 ## Páginas sobre a tradução
 

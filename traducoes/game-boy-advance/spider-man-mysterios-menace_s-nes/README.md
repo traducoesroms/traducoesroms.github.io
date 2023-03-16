@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Spider\-Man \- Mysterio’s Menace \(U\) \[\!\]\.gba | 6E135B4D | FBDA16CBC7E3F81AA5B90DA955D3E114 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Spider\-Man \- Mysterio’s Menace \(U\) \[\!\]\.gba | 6E135B4D | FBDA16CBC7E3F81AA5B90DA955D3E114 |
 
 ## Páginas sobre a tradução
 

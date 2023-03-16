@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Ninja Gaiden Shadow \(U\)\.gb | D3741A3A | E12C5C2897ED095F8D26C7578AFDDFDA |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Ninja Gaiden Shadow \(U\)\.gb | D3741A3A | E12C5C2897ED095F8D26C7578AFDDFDA |
 
 ## Páginas sobre a tradução
 

@@ -27,9 +27,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Nettou King of Fighters ‘97 \(J\) \[S\]\[p1\]\.gb | AC61EF47 | E33EC62A1EDF76DEB6F86D7CD9B8165A |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Nettou King of Fighters ‘97 \(J\) \[S\]\[p1\]\.gb | AC61EF47 | E33EC62A1EDF76DEB6F86D7CD9B8165A |
 
 ## Páginas sobre a tradução
 

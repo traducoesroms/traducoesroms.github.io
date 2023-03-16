@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | FIFA Football 2005 \(UE\) \(M6\) | DA90F396 | 4C5C302D02ECFCD274DAE63461A1692B |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| FIFA Football 2005 \(UE\) \(M6\) | DA90F396 | 4C5C302D02ECFCD274DAE63461A1692B |
 
 ## Páginas sobre a tradução
 

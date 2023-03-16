@@ -29,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Dinotopia \- The Timestone Pirates \(UE\) \(M6\)\.gba | 7BD01B31 | BAB43E61606514080129A179E931B2B6 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Dinotopia \- The Timestone Pirates \(UE\) \(M6\)\.gba | 7BD01B31 | BAB43E61606514080129A179E931B2B6 |
 
 ## Páginas sobre a tradução
 

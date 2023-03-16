@@ -27,9 +27,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Castlevania \- Legends \(U\) \[S\]\.gb | AD9C17FB | 1475824E7262C0D6359F43C287E034A5 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Castlevania \- Legends \(U\) \[S\]\.gb | AD9C17FB | 1475824E7262C0D6359F43C287E034A5 |
 
 ## Páginas sobre a tradução
 

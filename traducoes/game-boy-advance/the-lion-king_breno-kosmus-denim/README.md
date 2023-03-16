@@ -1,5 +1,7 @@
 # The Lion King
 
+![Capa traduzida de The Lion King](capa.png)
+
 ## Informações sobre o jogo
 
 | Tipo | Informação |
@@ -29,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Lion King, The \(E\) \(M8\)\.gba | 63592451 | 3F1CB5398649FF0C43673E73CAD3010E |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Lion King, The \(E\) \(M8\)\.gba | 63592451 | 3F1CB5398649FF0C43673E73CAD3010E |
 
 ## Páginas sobre a tradução
 

@@ -10,6 +10,7 @@
 | [Castlevania - Circle of the Moon](castlevania-circle-of-the-moon_solid_one-et-al/) | 1.0 | [Solid\_One](../../autores/solid_one/), [Joapeer](../../autores/joapeer/), [Arara](../../autores/arara/) e [spyblack](../../autores/spyblack/) |
 | [Castlevania - Harmony of Dissonance](castlevania-harmony-of-dissonance_solid_one-et-al/) | 1.1 | [Solid\_One](../../autores/solid_one/), [Anime\_World](../../autores/anime_world/), [Darkl0rd](../../autores/darkl0rd/) e [Odin](../../autores/odin/) |
 | [Crash Bandicoot XS](crash-bandicoot-xs_s-nes/) |  | [S\-NES](../../autores/s-nes/) |
+| [Crazy Chase](crazy-chase_tiozinho-da-telesena-diegohh/) | 1.0 | [Tiozinho da Telesena](../../autores/tiozinho-da-telesena/) e [DiegoHH](../../autores/diegohh/) |
 | [Dead to Rights](dead-to-rights_hnnewgames/) | 1.0 | [hnnewgames](../../autores/hnnewgames/) |
 | [Dinotopia - The Timestone Pirates](dinotopia-the-timestone-pirates_antigeno/) | 1.16 | [Antígeno](../../autores/antigeno/) |
 | [Dragon Ball Z - The Legacy of Goku](dragon-ball-z-the-legacy-of-goku_fserve-groxo/) | 1.2 | [Fserve](../../autores/fserve/) e [Groxo\_](../../autores/groxo/) |

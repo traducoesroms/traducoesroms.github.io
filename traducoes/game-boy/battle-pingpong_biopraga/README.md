@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Battle Pingpong \(J\)\.gb | 7C787BC4 | F24CCB89C3FF60F54600D7B063D5A6C2 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Battle Pingpong \(J\)\.gb | 7C787BC4 | F24CCB89C3FF60F54600D7B063D5A6C2 |
 
 ## Páginas sobre a tradução
 

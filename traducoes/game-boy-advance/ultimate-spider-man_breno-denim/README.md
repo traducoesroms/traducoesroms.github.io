@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Ultimate Spider\-Man \(U\)\.gba | 931E2C18 | 11BEB7FD8CE6C8A3D4987274835E0843 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Ultimate Spider\-Man \(U\)\.gba | 931E2C18 | 11BEB7FD8CE6C8A3D4987274835E0843 |
 
 ## Páginas sobre a tradução
 

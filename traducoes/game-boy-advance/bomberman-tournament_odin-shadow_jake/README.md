@@ -33,9 +33,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Bomberman Tournament \(U\) \[\!\]\.gba | 240282E6 | 79AEF9BBE1378ADFBD688CD66E11A7BE |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Bomberman Tournament \(U\) \[\!\]\.gba | 240282E6 | 79AEF9BBE1378ADFBD688CD66E11A7BE |
 
 ## Páginas sobre a tradução
 

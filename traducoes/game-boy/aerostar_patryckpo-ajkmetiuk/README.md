@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Aero Star \(U\) \[\!\]\.gb | F6FD275E | F777A4526089A83CA758EFBF01007EC1 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Aero Star \(U\) \[\!\]\.gb | F6FD275E | F777A4526089A83CA758EFBF01007EC1 |
 
 ## Páginas sobre a tradução
 

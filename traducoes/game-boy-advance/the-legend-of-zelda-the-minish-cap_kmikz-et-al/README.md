@@ -45,16 +45,16 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Legend of Zelda, The \- The Minish Cap \(U\)\.gba | ABCEBBB1 | A104896DA0047ABE8BEE2A6E3F4C7290 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Legend of Zelda, The \- The Minish Cap \(U\)\.gba | ABCEBBB1 | A104896DA0047ABE8BEE2A6E3F4C7290 |
 
 ## Páginas sobre a tradução
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net/translations/5249/](https://www.romhacking.net/translations/5249/) | Sim | Sim |
-| [https://www.e4t.com.br/downloads/a-lenda-de-zelda-o-gorro-minimizador/](https://www.e4t.com.br/downloads/a-lenda-de-zelda-o-gorro-minimizador/) | Sim | Página esta inativa |
+| [https://www.e4t.com.br/downloads/a-lenda-de-zelda-o-gorro-minimizador/](https://www.e4t.com.br/downloads/a-lenda-de-zelda-o-gorro-minimizador/) | Sim | Sim |
 | [https://www.romhacking.net.br/index.php?topic=2288](https://www.romhacking.net.br/index.php?topic=2288) | Sim | Sim, porém é necessário realizar login |
 | [https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda-the-minish-cap-trans-center-po.b.r.e.-e-projeto-br/](https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda-the-minish-cap-trans-center-po.b.r.e.-e-projeto-br/) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-legend-of-zelda-minish-cap-heroes-of-time-trans-center-pobre-e-projeto-br/](https://joao13traducoes.com/2018/03/gba-legend-of-zelda-minish-cap-heroes-of-time-trans-center-pobre-e-projeto-br/) | Não | Sim, porém o arquivo ou página de download exige uma senha |

@@ -34,9 +34,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Advance Wars \(U\) \(V1\.0\)\.gba | DBEF116C | 27F322F5CD535297AB21BC4A41CBFC12 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Advance Wars \(U\) \(V1\.0\)\.gba | DBEF116C | 27F322F5CD535297AB21BC4A41CBFC12 |
 
 ## Páginas sobre a tradução
 

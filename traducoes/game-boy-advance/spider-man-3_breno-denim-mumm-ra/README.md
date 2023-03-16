@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Spider\-Man 3 \(U\)\.gba | AD0228A1 | 7D2C4F995B82825AA63FE224733D769B |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Spider\-Man 3 \(U\)\.gba | AD0228A1 | 7D2C4F995B82825AA63FE224733D769B |
 
 ## Páginas sobre a tradução
 

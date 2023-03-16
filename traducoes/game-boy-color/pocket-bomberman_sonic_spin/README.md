@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pocket Bomberman \(U\) \[C\]\[\!\]\.gbc | FA2A66E9 | 2F6B6379F8C7CE5D66A198162F345EAA |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pocket Bomberman \(U\) \[C\]\[\!\]\.gbc | FA2A66E9 | 2F6B6379F8C7CE5D66A198162F345EAA |
 
 ## Páginas sobre a tradução
 

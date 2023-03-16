@@ -33,9 +33,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pokemon \- Gold Version \(UE\) \[C\]\[\!\]\.gbc | 6BDE3C3E | A6924CE1F9AD2228E1C6580779B23878 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pokemon \- Gold Version \(UE\) \[C\]\[\!\]\.gbc | 6BDE3C3E | A6924CE1F9AD2228E1C6580779B23878 |
 
 ## Páginas sobre a tradução
 

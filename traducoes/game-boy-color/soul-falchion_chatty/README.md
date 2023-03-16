@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Soul Falchion \(Unl\) \[C\]\.gbc | 7AFAE089 | A173EB46EF11840B9318A8832828280B |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Soul Falchion \(Unl\) \[C\]\.gbc | 7AFAE089 | A173EB46EF11840B9318A8832828280B |
 
 ## Páginas sobre a tradução
 

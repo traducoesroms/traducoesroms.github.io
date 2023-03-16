@@ -29,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Castlevania II \- Belmont's Revenge \(U\) \[\!\]\.gb | 8875C8FE | 7C65E9DA405D2225D079F75E56276822 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Castlevania II \- Belmont's Revenge \(U\) \[\!\]\.gb | 8875C8FE | 7C65E9DA405D2225D079F75E56276822 |
 
 ## Páginas sobre a tradução
 

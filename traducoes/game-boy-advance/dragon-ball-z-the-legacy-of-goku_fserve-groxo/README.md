@@ -33,10 +33,10 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Dragon Ball Z \- The Legacy of Goku \(U\) \[hI\]\.gba | 3DE06A92 | 2AE646903C660FBC16E6FB7F52F5860F |
-| IPS | Dragon Ball Z \- The Legacy of Goku \(U\) \[\!\]\.gba | D47CCFF4 | 3100FC5A4427A7B0CC20B861134E60F2 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Dragon Ball Z \- The Legacy of Goku \(U\) \[hI\]\.gba | 3DE06A92 | 2AE646903C660FBC16E6FB7F52F5860F |
+| Dragon Ball Z \- The Legacy of Goku \(U\) \[\!\]\.gba | D47CCFF4 | 3100FC5A4427A7B0CC20B861134E60F2 |
 
 ## Páginas sobre a tradução
 

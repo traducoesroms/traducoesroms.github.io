@@ -29,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Addams Family, The – Pugsley’s Scavenger Hunt \(U\)\.gb | 7E054A88 | 57726C28DC09949029A154F63B891DD0 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Addams Family, The – Pugsley’s Scavenger Hunt \(U\)\.gb | 7E054A88 | 57726C28DC09949029A154F63B891DD0 |
 
 ## Páginas sobre a tradução
 

@@ -36,9 +36,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Castlevania \- Aria of Sorrow \(E\) \(M3\) \[hIR00\]\.gba | D0C91F74 | 4A5D8E686D55829D54A03FDA8D6887D7 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Castlevania \- Aria of Sorrow \(E\) \(M3\) \[hIR00\]\.gba | D0C91F74 | 4A5D8E686D55829D54A03FDA8D6887D7 |
 
 ## Páginas sobre a tradução
 

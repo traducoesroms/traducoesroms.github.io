@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pokemon \- Blue Version \(UE\) \[S\]\[\!\]\.gb | D6DA8A1A | 50927E843568814F7ED45EC4F944BD8B |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pokemon \- Blue Version \(UE\) \[S\]\[\!\]\.gb | D6DA8A1A | 50927E843568814F7ED45EC4F944BD8B |
 
 ## Páginas sobre a tradução
 

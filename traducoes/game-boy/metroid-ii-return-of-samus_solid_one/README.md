@@ -34,17 +34,17 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Metroid II \- Return of Samus \(W\) \[\!\]\.gb | DEE05370 | 9639948AD274FA15281F549E5F9C4D87 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Metroid II \- Return of Samus \(W\) \[\!\]\.gb | DEE05370 | 9639948AD274FA15281F549E5F9C4D87 |
 
 ## Páginas sobre a tradução
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://www.romhacking.net/translations/1861/](https://www.romhacking.net/translations/1861/) | Sim | Sim |
 | [https://www.zophar.net/translations/gameboy/brazilian-portuguese/metroid-ii-return-of-samus.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/metroid-ii-return-of-samus.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy/metroid-ii-return-of-samus-trans-center/](https://romhackers.org/traducoes/portatil/game-boy/metroid-ii-return-of-samus-trans-center/) | Não | Não |
-| [https://www.romhacking.net/translations/1861/](https://www.romhacking.net/translations/1861/) | Não | Sim, porém é uma versão antiga |
 
 ## Imagens da tradução
 

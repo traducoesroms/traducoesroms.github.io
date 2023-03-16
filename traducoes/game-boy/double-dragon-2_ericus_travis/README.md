@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Double Dragon 2 \(U\)\.gb | 5B96E474 | 4F3B84EB325F9162086FAC77AC577E7C |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Double Dragon 2 \(U\)\.gb | 5B96E474 | 4F3B84EB325F9162086FAC77AC577E7C |
 
 ## Páginas sobre a tradução
 

@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Adventure Island \(U\)\.gb | 64F4FA44 | D67E58BF5F39D5FB073FED85C3D9BEDE |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Adventure Island \(U\)\.gb | 64F4FA44 | D67E58BF5F39D5FB073FED85C3D9BEDE |
 
 ## Páginas sobre a tradução
 
@@ -40,6 +40,7 @@
 | ----------- | ----------- | ----------- |
 | [https://patryckpo.com/traducoes/gb/adventure-island/](https://patryckpo.com/traducoes/gb/adventure-island/) | Sim | Sim |
 | [https://www.romhacking.net.br/index.php?topic=754](https://www.romhacking.net.br/index.php?topic=754) | Sim | Sim, porém é necessário realizar login |
+| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/adventure-island.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/adventure-island.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy/adventure-island-patryck/](https://romhackers.org/traducoes/portatil/game-boy/adventure-island-patryck/) | Não | Não |
 
 ## Imagens da tradução

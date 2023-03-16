@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Finding Nemo \(Europe\) \(Es,It\)\.gba | 3E6F4F03 | B7A094F8568555602158DCEE3750179F |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Finding Nemo \(Europe\) \(Es,It\)\.gba | 3E6F4F03 | B7A094F8568555602158DCEE3750179F |
 
 ## Páginas sobre a tradução
 

@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Adventure Island II \(UE\) \[\!\]\.gb | 783066CF | ED2444AFE317452E29C1C2258DA6963C |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Adventure Island II \(UE\) \[\!\]\.gb | 783066CF | ED2444AFE317452E29C1C2258DA6963C |
 
 ## Páginas sobre a tradução
 

@@ -1,0 +1,7 @@
+# BlueFairy
+
+## Traduções
+
+| Plataforma | Jogo | Versão | Autores |
+| ----------- | ----------- | ----------- | ----------- |
+| [Nintendo DS](../../traducoes/nintendo-ds/) | [Phoenix Wright - Ace Attorney - Trials And Tribulations](../../traducoes/nintendo-ds/phoenix-wright-ace-attorney-trials-and-tribulations_solid_one-et-al/) | 1.0 | [Solid\_One](../../autores/solid_one/), [Gamerulez](../../autores/gamerulez/), [Dant](../../autores/dant/), [DiegoHH](../../autores/diegohh/), [djmatheusito](../../autores/djmatheusito/), [Sahgo](../../autores/sahgo/), [Rafael Andrade](../../autores/rafael-andrade/), [Gustavo Jagohod](../../autores/gustavo-jagohod/), [Katodelumo](../../autores/katodelumo/), [Kaid](../../autores/kaid/), [Naoya](../../autores/naoya/), [LiferFiberInfused Joker](../../autores/liferfiberinfused-joker/), [BlueFairy](../../autores/bluefairy/), [Gigi](../../autores/gigi/), [Senn](../../autores/senn/), [Zerneas](../../autores/zerneas/), [Lucas](../../autores/lucas/), [Mjay](../../autores/mjay/), [S\.O\.](../../autores/so/), [Cronus](../../autores/cronus/), [Yuuki](../../autores/yuuki/), [Mob](../../autores/mob/), [Dwlipey](../../autores/dwlipey/), [Flame Gavin](../../autores/flame-gavin/), [BMatSantos](../../autores/bmatsantos/), [Kosmus](../../autores/kosmus/), [ALX](../../autores/alx/), [EmuPlays](../../autores/emuplays/), [Sigaki](../../autores/sigaki/), [Gabriel Andrade](../../autores/gabriel-andrade/), [Eduardo Yamane](../../autores/eduardo-yamane/), [Juh Tairin](../../autores/juh-tairin/) e [Zizibs](../../autores/zizibs/) |

@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Driver \- You Are The Wheelman \(U\) \(M5\) \[C\]\[\!\]\.gbc | D4C7F6DF | 413E1ACD7847D628364163EB2C97CECD |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Driver \- You Are The Wheelman \(U\) \(M5\) \[C\]\[\!\]\.gbc | D4C7F6DF | 413E1ACD7847D628364163EB2C97CECD |
 
 ## Páginas sobre a tradução
 

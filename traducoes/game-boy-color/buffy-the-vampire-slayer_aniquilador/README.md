@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Buffy the Vampire Slayer \(U\) \[C\]\[\!\]\.gbc | 5692E262 | 49561C4082206A7E5D5CA2032BE81EED |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Buffy the Vampire Slayer \(U\) \[C\]\[\!\]\.gbc | 5692E262 | 49561C4082206A7E5D5CA2032BE81EED |
 
 ## Páginas sobre a tradução
 

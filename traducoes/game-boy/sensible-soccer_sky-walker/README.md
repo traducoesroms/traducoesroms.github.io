@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Sensible Soccer \- European Champions \(E\)\.gb | BD022658 | 3AE8ECEB23913AEB1A655DA481541A6B |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Sensible Soccer \- European Champions \(E\)\.gb | BD022658 | 3AE8ECEB23913AEB1A655DA481541A6B |
 
 ## Páginas sobre a tradução
 

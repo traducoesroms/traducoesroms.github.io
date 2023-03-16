@@ -1,5 +1,7 @@
 # Kirby &amp; the Amazing Mirror
 
+![Capa traduzida de Kirby &amp; the Amazing Mirror](capa.png)
+
 ## Informações sobre o jogo
 
 | Tipo | Informação |
@@ -35,9 +37,9 @@ A exploração do mundo é simples e um mapa ajuda a compreender que caminhos to
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Kirby &amp; the Amazing Mirror \(E\) \(M5\)\.gba | 4F07C618 | 1C759EDF84A20174989588664BBBEC55 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Kirby &amp; the Amazing Mirror \(E\) \(M5\)\.gba | 4F07C618 | 1C759EDF84A20174989588664BBBEC55 |
 
 ## Páginas sobre a tradução
 

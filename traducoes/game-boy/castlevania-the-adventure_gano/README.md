@@ -31,9 +31,9 @@ Caso você encontre algum erro ou bug, queira me informar pelo meu e\-mail\. |
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Castlevania Adventure, The \(U\) \[\!\]\.gb | 216E6AA1 | 0B4410C6B94D6359DBA5609AE9A32909 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Castlevania Adventure, The \(U\) \[\!\]\.gb | 216E6AA1 | 0B4410C6B94D6359DBA5609AE9A32909 |
 
 ## Páginas sobre a tradução
 

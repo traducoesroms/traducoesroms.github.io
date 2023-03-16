@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pokemon Pinball \(U\) \[C\]\[\!\]\.gbc | 03CE8D9A | FBE20570C2E52C937A9395024069BA3C |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pokemon Pinball \(U\) \[C\]\[\!\]\.gbc | 03CE8D9A | FBE20570C2E52C937A9395024069BA3C |
 
 ## Páginas sobre a tradução
 

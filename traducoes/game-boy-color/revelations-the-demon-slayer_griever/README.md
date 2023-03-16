@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Revelations \- The Demon Slayer \(U\) \[C\]\[\!\]\.gbc | D1A65D74 | 86ED74283FE0071F8D3F05923051EFAB |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Revelations \- The Demon Slayer \(U\) \[C\]\[\!\]\.gbc | D1A65D74 | 86ED74283FE0071F8D3F05923051EFAB |
 
 ## Páginas sobre a tradução
 

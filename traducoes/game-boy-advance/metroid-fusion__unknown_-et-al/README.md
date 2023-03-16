@@ -43,9 +43,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Metroid Fusion \(U\) \[\!\]\.gba | 6C75479C | AF5040FC0F579800151EE2A683E2E5B5 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Metroid Fusion \(U\) \[\!\]\.gba | 6C75479C | AF5040FC0F579800151EE2A683E2E5B5 |
 
 ## Páginas sobre a tradução
 

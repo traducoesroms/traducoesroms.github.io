@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Tetris \(JUE\) \(V1\.1\) \[\!\]\.gb | 46DF91AD | 982ED5D2B12A0377EB14BCDC4123744E |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Tetris \(JUE\) \(V1\.1\) \[\!\]\.gb | 46DF91AD | 982ED5D2B12A0377EB14BCDC4123744E |
 
 ## Páginas sobre a tradução
 
