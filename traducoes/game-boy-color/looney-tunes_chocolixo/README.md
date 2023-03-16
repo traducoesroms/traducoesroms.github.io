@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Looney Tunes \(U\) \[C\]\[\!\]\.gbc | 4EF3DDD7 | F687B51A0FAB72E03766356B62261A49 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Looney Tunes \(U\) \[C\]\[\!\]\.gbc | 4EF3DDD7 | F687B51A0FAB72E03766356B62261A49 |
 
 ## Páginas sobre a tradução
 

@@ -29,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS e Xdelta | Dead to Rights \(E\) \(M5\) | 2994DE1D | 01356207595154E92EFA8B97B6E48ACD |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Dead to Rights \(E\) \(M5\) | 2994DE1D | 01356207595154E92EFA8B97B6E48ACD |
 
 ## Páginas sobre a tradução
 

@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | FIFA World Cup Germany 2006 \(UE\) \(M5\)\.gba | 50AB4544 | BB87013EC30BEBF3DD7CB07AB6786262 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| FIFA World Cup Germany 2006 \(UE\) \(M5\)\.gba | 50AB4544 | BB87013EC30BEBF3DD7CB07AB6786262 |
 
 ## Páginas sobre a tradução
 

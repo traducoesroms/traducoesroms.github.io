@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Tennis \(JUE\) \[\!\]\.gb | 5009215F | 7D621DCBBCE12B73574C42F40DEEC275 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Tennis \(JUE\) \[\!\]\.gb | 5009215F | 7D621DCBBCE12B73574C42F40DEEC275 |
 
 ## Páginas sobre a tradução
 

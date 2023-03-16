@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Bomb Jack \(U\)\.gb | 9BD8815E | 7615154DC9AFB1A7D7D2FE63B76C68E4 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Bomb Jack \(U\)\.gb | 9BD8815E | 7615154DC9AFB1A7D7D2FE63B76C68E4 |
 
 ## Páginas sobre a tradução
 

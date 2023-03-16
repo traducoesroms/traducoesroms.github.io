@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Batman Begins \(UE\) \(M6\)\.gba | 83C90106 | 8C48059BF2C40A78B9739EDF5EA411CB |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Batman Begins \(UE\) \(M6\)\.gba | 83C90106 | 8C48059BF2C40A78B9739EDF5EA411CB |
 
 ## Páginas sobre a tradução
 

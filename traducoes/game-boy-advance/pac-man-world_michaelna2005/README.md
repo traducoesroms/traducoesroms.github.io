@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pac\-Man World \(E\) \(M5\)\.gba | 1F92814E | 83511ED734D5BF842B9062EBC574A434 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pac\-Man World \(E\) \(M5\)\.gba | 1F92814E | 83511ED734D5BF842B9062EBC574A434 |
 
 ## Páginas sobre a tradução
 

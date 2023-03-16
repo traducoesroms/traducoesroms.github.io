@@ -36,9 +36,9 @@ Não tem finais programados, então o jogo acaba aí mesmo\. Eu fiz minha tradu�
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Resident Evil GBC Cart 1\.gb | 53F7BBA1 | FD91D5D69C43F2F0406B3626D625B6E6 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Resident Evil GBC Cart 1\.gb | 53F7BBA1 | FD91D5D69C43F2F0406B3626D625B6E6 |
 
 ## Páginas sobre a tradução
 

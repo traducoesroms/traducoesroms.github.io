@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Banjo\-Kazooie \- Grunty's Revenge \(U\) \[\!\]\.gba | DFB5ABA3 | 4781A8E513DE51AB90292C321AC34374 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Banjo\-Kazooie \- Grunty's Revenge \(U\) \[\!\]\.gba | DFB5ABA3 | 4781A8E513DE51AB90292C321AC34374 |
 
 ## Páginas sobre a tradução
 

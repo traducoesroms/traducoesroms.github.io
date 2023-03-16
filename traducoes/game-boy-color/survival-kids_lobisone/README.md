@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Survival Kids \(U\) \[C\]\[\!\]\.gbc | C46ABA56 | 07D4DF7A1C93F5BEF617E5A90B9EDEE2 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Survival Kids \(U\) \[C\]\[\!\]\.gbc | C46ABA56 | 07D4DF7A1C93F5BEF617E5A90B9EDEE2 |
 
 ## Páginas sobre a tradução
 

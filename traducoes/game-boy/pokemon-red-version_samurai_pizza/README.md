@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pokemon Red \(UE\) \[S\]\[\!\]\.gb | 9F7FDD53 | 3D45C1EE9ABD5738DF46D2BDDA8B57DC |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pokemon Red \(UE\) \[S\]\[\!\]\.gb | 9F7FDD53 | 3D45C1EE9ABD5738DF46D2BDDA8B57DC |
 
 ## Páginas sobre a tradução
 

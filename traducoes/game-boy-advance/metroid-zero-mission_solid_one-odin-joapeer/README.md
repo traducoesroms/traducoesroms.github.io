@@ -34,9 +34,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Metroid \- Zero Mission \(U\) \[\!\]\.gba | 5C61A844 | EBBCE58109988B6DA61EBB06C7A432D5 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Metroid \- Zero Mission \(U\) \[\!\]\.gba | 5C61A844 | EBBCE58109988B6DA61EBB06C7A432D5 |
 
 ## Páginas sobre a tradução
 

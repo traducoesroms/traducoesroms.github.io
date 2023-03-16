@@ -29,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Yu\-Gi\-Oh\! Dark Duel Stories \(U\) \[C\]\[\!\]\.gbc | 803A56AE | C30ADD585D87114288FF8E3726C5381B |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Yu\-Gi\-Oh\! Dark Duel Stories \(U\) \[C\]\[\!\]\.gbc | 803A56AE | C30ADD585D87114288FF8E3726C5381B |
 
 ## Páginas sobre a tradução
 

@@ -34,10 +34,10 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Harvest Moon GB \(U\) \[C\]\[\!\]\.gbc | AB5738A1 | 498C0A50A5E5CDE16127617A97AD6162 |
-| IPS | Harvest Moon GB \(E\) \[C\]\[\!\]\.gbc | C8A6F68A | A5BC2E2AD58BBD78609478A60DCDA8D7 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Harvest Moon GB \(U\) \[C\]\[\!\]\.gbc | AB5738A1 | 498C0A50A5E5CDE16127617A97AD6162 |
+| Harvest Moon GB \(E\) \[C\]\[\!\]\.gbc | C8A6F68A | A5BC2E2AD58BBD78609478A60DCDA8D7 |
 
 ## Páginas sobre a tradução
 

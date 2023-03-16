@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Final Fantasy Adventure \(U\)\.gb | 18C78B3A | 24CD3BDF490EF2E1AA6A8AF380ECCD78 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Final Fantasy Adventure \(U\)\.gb | 18C78B3A | 24CD3BDF490EF2E1AA6A8AF380ECCD78 |
 
 ## Páginas sobre a tradução
 

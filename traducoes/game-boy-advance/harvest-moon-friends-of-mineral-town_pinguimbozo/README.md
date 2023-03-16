@@ -29,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Harvest Moon \- Friends of Mineral Town \(U\) \[\!\]\.gba | 8E923168 | 80355C831A7A25B0F70DC021EBD344F1 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Harvest Moon \- Friends of Mineral Town \(U\) \[\!\]\.gba | 8E923168 | 80355C831A7A25B0F70DC021EBD344F1 |
 
 ## Páginas sobre a tradução
 

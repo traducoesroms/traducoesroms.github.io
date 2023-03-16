@@ -36,9 +36,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Castlevania \- Circle of the Moon \(U\)\.gba | 1CC059A4 | 50A1089600603A94E15ECF287F8D5A1F |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Castlevania \- Circle of the Moon \(U\)\.gba | 1CC059A4 | 50A1089600603A94E15ECF287F8D5A1F |
 
 ## Páginas sobre a tradução
 

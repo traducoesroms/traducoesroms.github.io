@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS e Xdelta | Mario &amp; Luigi \- Superstar Saga \(E\) \(M5\)\.gba | 170CC574 | 3B50B9F9E13E271EAD33EE5A234650A9 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Mario &amp; Luigi \- Superstar Saga \(E\) \(M5\)\.gba | 170CC574 | 3B50B9F9E13E271EAD33EE5A234650A9 |
 
 ## Páginas sobre a tradução
 

@@ -46,14 +46,15 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Legend of Zelda, The \- A Link to the Past &amp; Four Swords \(U\)\.gba | 8E91CD13 | 3287CA66E5CC285A9FE3A922051E84C6 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Legend of Zelda, The \- A Link to the Past &amp; Four Swords \(U\)\.gba | 8E91CD13 | 3287CA66E5CC285A9FE3A922051E84C6 |
 
 ## Páginas sobre a tradução
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://www.e4t.com.br/downloads/a-lenda-de-zelda-quatro-espadas-um-elo-com-o-passado/](https://www.e4t.com.br/downloads/a-lenda-de-zelda-quatro-espadas-um-elo-com-o-passado/) | Sim | Sim |
 | [https://www.romhacking.net.br/index.php?topic=2287](https://www.romhacking.net.br/index.php?topic=2287) | Sim | Sim, porém é necessário realizar login |
 | [https://www.romhacking.net/translations/5277/](https://www.romhacking.net/translations/5277/) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/) | Não | Não |

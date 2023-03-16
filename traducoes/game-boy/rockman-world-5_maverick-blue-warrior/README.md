@@ -29,9 +29,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Rockman World 5 \(J\) \[S\]\.gb | EEABD3C6 | 309FC69D5AB1D2B17D0BBC127FAF04C1 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Rockman World 5 \(J\) \[S\]\.gb | EEABD3C6 | 309FC69D5AB1D2B17D0BBC127FAF04C1 |
 
 ## Páginas sobre a tradução
 

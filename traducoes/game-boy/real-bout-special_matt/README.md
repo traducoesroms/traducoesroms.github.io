@@ -27,9 +27,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Real Bout Special \(J\) \[S\]\.gb | F4031D4C | 4C24F644E70F0786D20D8CA9FFCEA51C |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Real Bout Special \(J\) \[S\]\.gb | F4031D4C | 4C24F644E70F0786D20D8CA9FFCEA51C |
 
 ## Páginas sobre a tradução
 

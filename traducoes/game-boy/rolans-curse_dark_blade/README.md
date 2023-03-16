@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Rolan's Curse \(U\) \[\!\]\.gb | 1A602590 | EBD1866DC6C13CA48F45538ED33EA46F |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Rolan's Curse \(U\) \[\!\]\.gb | 1A602590 | EBD1866DC6C13CA48F45538ED33EA46F |
 
 ## Páginas sobre a tradução
 

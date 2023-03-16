@@ -30,9 +30,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | SpongeBob SquarePants \- SuperSponge \(U\)\.gba | 98AD67E6 | C2BFA5C822F33EAED02AD2F94A0414B4 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| SpongeBob SquarePants \- SuperSponge \(U\)\.gba | 98AD67E6 | C2BFA5C822F33EAED02AD2F94A0414B4 |
 
 ## Páginas sobre a tradução
 

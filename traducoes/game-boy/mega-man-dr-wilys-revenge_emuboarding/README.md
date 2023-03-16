@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Mega Man \- Dr\. Wily's Revenge \(U\) \[\!\]\.gb | 47E70E08 | 4BA4398181D98958FA7434BA7716F11A |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Mega Man \- Dr\. Wily's Revenge \(U\) \[\!\]\.gb | 47E70E08 | 4BA4398181D98958FA7434BA7716F11A |
 
 ## Páginas sobre a tradução
 

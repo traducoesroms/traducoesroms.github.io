@@ -30,9 +30,9 @@ O jogo continua com a mesma história do protagonista Mega Man em uma luta inter
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Rockman World 4 \(J\)\.gb | 16AEC559 | 401647AD59208D67507245AC13E3894C |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Rockman World 4 \(J\)\.gb | 16AEC559 | 401647AD59208D67507245AC13E3894C |
 
 ## Páginas sobre a tradução
 

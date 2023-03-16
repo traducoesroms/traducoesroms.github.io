@@ -33,10 +33,10 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Megaman Zero 3 \(U\)\.gba | 2784F3F2 | AA1D5EEFFCD5E4577DB9EE6D9B1100F9 |
-| IPS | Megaman Zero 3 \(E\)\.gba | B099577F | 9CE73FF9AA1473F250D103C1BDBBD738 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Megaman Zero 3 \(U\)\.gba | 2784F3F2 | AA1D5EEFFCD5E4577DB9EE6D9B1100F9 |
+| Megaman Zero 3 \(E\)\.gba | B099577F | 9CE73FF9AA1473F250D103C1BDBBD738 |
 
 ## Páginas sobre a tradução
 

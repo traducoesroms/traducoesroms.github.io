@@ -33,9 +33,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Mega Man Xtreme \(U\) \[C\]\[\!\]\.gbc | 3A4D94D5 | 4681F5B931A2E60CA163FACD1ADF56ED |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Mega Man Xtreme \(U\) \[C\]\[\!\]\.gbc | 3A4D94D5 | 4681F5B931A2E60CA163FACD1ADF56ED |
 
 ## Páginas sobre a tradução
 

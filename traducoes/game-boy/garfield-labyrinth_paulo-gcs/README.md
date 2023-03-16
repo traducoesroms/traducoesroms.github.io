@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Garfield Labyrinth \(U\)\.gb | 6A043ABD | 5E441AF514D1BCDAEC08C133CEEA4E5E |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Garfield Labyrinth \(U\)\.gb | 6A043ABD | 5E441AF514D1BCDAEC08C133CEEA4E5E |
 
 ## Páginas sobre a tradução
 

@@ -27,9 +27,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Mega Man II \(U\) \[\!\]\.gb | E496F686 | 7FE07271D04ED9E0BC0663DDE55A2AE4 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Mega Man II \(U\) \[\!\]\.gb | E496F686 | 7FE07271D04ED9E0BC0663DDE55A2AE4 |
 
 ## Páginas sobre a tradução
 

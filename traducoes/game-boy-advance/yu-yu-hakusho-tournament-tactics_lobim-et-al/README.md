@@ -37,9 +37,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Yu Yu Hakusho \- Tournament Tactics \(U\)\.gba | AEF6B7CC | ACEFEBBE5FDF25AE83A386A6D1C09BCA |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Yu Yu Hakusho \- Tournament Tactics \(U\)\.gba | AEF6B7CC | ACEFEBBE5FDF25AE83A386A6D1C09BCA |
 
 ## Páginas sobre a tradução
 

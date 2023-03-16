@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Final Fantasy Legend II \(U\) \[\!\]\.gb | 58314182 | 2BB0DF1B672253AAA5F9CAF9AAB78224 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Final Fantasy Legend II \(U\) \[\!\]\.gb | 58314182 | 2BB0DF1B672253AAA5F9CAF9AAB78224 |
 
 ## Páginas sobre a tradução
 

@@ -35,9 +35,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Crystalis \(U\) \[C\]\[\!\]\.gbc | 909BB02D | F36A0ED25A601C039B1171D9DAF241D6 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Crystalis \(U\) \[C\]\[\!\]\.gbc | 909BB02D | F36A0ED25A601C039B1171D9DAF241D6 |
 
 ## Páginas sobre a tradução
 

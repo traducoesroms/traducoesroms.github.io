@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Rainbow Six \- Rogue Spear \(U\) \(M5\)\.gba | 23575BF2 | 509E3A1FE6284A75C84315A64BD33F43 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Rainbow Six \- Rogue Spear \(U\) \(M5\)\.gba | 23575BF2 | 509E3A1FE6284A75C84315A64BD33F43 |
 
 ## Páginas sobre a tradução
 

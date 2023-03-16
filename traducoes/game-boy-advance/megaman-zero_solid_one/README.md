@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Megaman Zero \(U\)\.gba | 9707D2A1 | B24A17D080A01A404CBF018BA42B9803 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Megaman Zero \(U\)\.gba | 9707D2A1 | B24A17D080A01A404CBF018BA42B9803 |
 
 ## Páginas sobre a tradução
 

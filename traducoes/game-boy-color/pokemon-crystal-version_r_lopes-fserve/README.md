@@ -34,9 +34,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pokemon \- Crystal Version \(UE\) \(V1\.1\) \[C\]\[\!\]\.gbc | 3358E30A | 301899B8087289A6436B0A241FBBB474 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pokemon \- Crystal Version \(UE\) \(V1\.1\) \[C\]\[\!\]\.gbc | 3358E30A | 301899B8087289A6436B0A241FBBB474 |
 
 ## Páginas sobre a tradução
 

@@ -33,9 +33,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Alone in the Dark \- The New Nightmare \(E\) \(M6\) \[C\]\[\!\]\.gbc | 7FF2042F | 30EC849758F703D7071E2AC28E048101 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Alone in the Dark \- The New Nightmare \(E\) \(M6\) \[C\]\[\!\]\.gbc | 7FF2042F | 30EC849758F703D7071E2AC28E048101 |
 
 ## Páginas sobre a tradução
 

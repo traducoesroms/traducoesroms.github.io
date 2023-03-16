@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Chessmaster, The \(USA\) \(Rev 1\)\.gb | 59ED370C | 6B6D4A25D3C1E2890B22271C44E62DBF |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Chessmaster, The \(USA\) \(Rev 1\)\.gb | 59ED370C | 6B6D4A25D3C1E2890B22271C44E62DBF |
 
 ## Páginas sobre a tradução
 

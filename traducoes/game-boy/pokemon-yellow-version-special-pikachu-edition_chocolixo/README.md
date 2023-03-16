@@ -28,9 +28,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Pokemon \- Edicion Amarilla \- Edicion Especial Pikachu \(Spain\) \(CGB\+SGB Enhanced\)\.gb | 964B7A10 | F0DA8B1CFF3AAB898ECDE9DCBDA6D817 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Pokemon \- Edicion Amarilla \- Edicion Especial Pikachu \(Spain\) \(CGB\+SGB Enhanced\)\.gb | 964B7A10 | F0DA8B1CFF3AAB898ECDE9DCBDA6D817 |
 
 ## Páginas sobre a tradução
 

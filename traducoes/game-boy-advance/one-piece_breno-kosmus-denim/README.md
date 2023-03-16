@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | One Piece \(U\)\.gba | 7D2CF2A1 | CE153A5CE176B608EDD035E3B9A27DAD |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| One Piece \(U\)\.gba | 7D2CF2A1 | CE153A5CE176B608EDD035E3B9A27DAD |
 
 ## Páginas sobre a tradução
 

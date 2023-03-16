@@ -33,9 +33,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Bugs Bunny \(U\) \[\!\]\.gb | 403E1B7E | 43189B859C0036119F233D46B1F2E9FD |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Bugs Bunny \(U\) \[\!\]\.gb | 403E1B7E | 43189B859C0036119F233D46B1F2E9FD |
 
 ## Páginas sobre a tradução
 

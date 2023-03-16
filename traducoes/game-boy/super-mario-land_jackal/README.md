@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Super Mario Land \(JUE\) \(V1\.1\) \[\!\]\.gb | 2C27EC70 | B259FEB41811C7E4E1DC200167985C84 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Super Mario Land \(JUE\) \(V1\.1\) \[\!\]\.gb | 2C27EC70 | B259FEB41811C7E4E1DC200167985C84 |
 
 ## Páginas sobre a tradução
 

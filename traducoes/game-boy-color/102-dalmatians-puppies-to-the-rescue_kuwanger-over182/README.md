@@ -33,9 +33,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | 102 Dalmatians \- Puppies to the Rescue \(U\) \[C\]\[\!\]\.gbc | 56B83539 | 2B7E2442D503CE368FC93A9EBF0F70EF |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| 102 Dalmatians \- Puppies to the Rescue \(U\) \[C\]\[\!\]\.gbc | 56B83539 | 2B7E2442D503CE368FC93A9EBF0F70EF |
 
 ## Páginas sobre a tradução
 

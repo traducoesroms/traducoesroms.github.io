@@ -35,9 +35,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Shonen Jump’s \- Shaman King \- Master of Spirits \(U\)\.gba | 10E554AE | 1C92EDBAD07A372EE382D16CF624DC4B |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Shonen Jump’s \- Shaman King \- Master of Spirits \(U\)\.gba | 10E554AE | 1C92EDBAD07A372EE382D16CF624DC4B |
 
 ## Páginas sobre a tradução
 

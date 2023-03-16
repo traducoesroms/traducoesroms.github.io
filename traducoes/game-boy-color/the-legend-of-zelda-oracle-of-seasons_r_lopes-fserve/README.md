@@ -32,9 +32,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Legend of Zelda, The \- Oracle of Seasons \(E\) \(M5\) \[C\]\[\!\]\.gbc | DBAC1357 | 4CA44CBDD4E05C9B3C22DA96D3DE6338 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Legend of Zelda, The \- Oracle of Seasons \(E\) \(M5\) \[C\]\[\!\]\.gbc | DBAC1357 | 4CA44CBDD4E05C9B3C22DA96D3DE6338 |
 
 ## Páginas sobre a tradução
 

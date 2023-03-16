@@ -31,9 +31,9 @@
 
 ## Informações sobre patching
 
-| Formato do patch | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
-| ----------- | ----------- | ----------- | ----------- |
-| IPS | Spider\-Man 2 \- The Sinister Six \(U\) \[C\]\[\!\]\.gbc | A7FAACCF | 85BBAD46380DFFA631F8CE732E9C5D89 |
+| Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |
+| ----------- | ----------- | ----------- |
+| Spider\-Man 2 \- The Sinister Six \(U\) \[C\]\[\!\]\.gbc | A7FAACCF | 85BBAD46380DFFA631F8CE732E9C5D89 |
 
 ## Páginas sobre a tradução
 
