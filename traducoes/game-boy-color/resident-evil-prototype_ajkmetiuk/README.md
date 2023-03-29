@@ -46,6 +46,7 @@ Não tem finais programados, então o jogo acaba aí mesmo\. Eu fiz minha tradu�
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net/translations/3522/](https://www.romhacking.net/translations/3522/) | Sim | Sim |
 | [https://www.romhacking.net.br/index.php?topic=50](https://www.romhacking.net.br/index.php?topic=50) | Sim | Sim, porém é necessário realizar login |
+| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/resident-evil-prototype-.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/resident-evil-prototype-.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy-color/resident-evil-gbc-cart-1-ajkmetiuk/](https://romhackers.org/traducoes/portatil/game-boy-color/resident-evil-gbc-cart-1-ajkmetiuk/) | Não | Não |
 
 ## Imagens da tradução
