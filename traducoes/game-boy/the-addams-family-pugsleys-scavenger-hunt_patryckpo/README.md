@@ -38,6 +38,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://patryckpo.com/traducoes/gb/pugsley-scavenger-hunt/](https://patryckpo.com/traducoes/gb/pugsley-scavenger-hunt/) | Sim | Sim |
+| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/the-addams-family-pugsley-s-scavenger-hunt.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/the-addams-family-pugsley-s-scavenger-hunt.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy/the-addams-family-pugsleys-scavenger-hunt-patryck/](https://romhackers.org/traducoes/portatil/game-boy/the-addams-family-pugsleys-scavenger-hunt-patryck/) | Não | Não |
 
 ## Imagens da tradução

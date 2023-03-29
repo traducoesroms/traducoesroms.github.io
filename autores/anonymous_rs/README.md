@@ -4,4 +4,5 @@
 
 | Plataforma | Jogo | Versão | Grupos | Autores |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Game Boy](../../traducoes/game-boy/) | [Mega Man IV](../../traducoes/game-boy/mega-man-iv_anonymous_rs/) | 1.0 | [Evil Darkness](../../grupos/evil-darkness/) | [Anonymous\_rs](../../autores/anonymous_rs/) |
 | [Game Boy Advance](../../traducoes/game-boy-advance/) | [Metroid Fusion](../../traducoes/game-boy-advance/metroid-fusion__unknown_-et-al/) | 1.2 | [Tradu\-Roms](../../grupos/tradu-roms/), [Trans\-Center](../../grupos/trans-center/) e [PO\.B\.R\.E](../../grupos/pobre/) | [\_\#UNKNOWN\#\_](../../autores/unknown/), [Solid\_One](../../autores/solid_one/), [Joapeer](../../autores/joapeer/), [Darkl0rd](../../autores/darkl0rd/), [Arara](../../autores/arara/), [Odin](../../autores/odin/), [Gambas](../../autores/gambas/), [Anonymous\_rs](../../autores/anonymous_rs/), [Sonic\_Spin](../../autores/sonic_spin/) e [Kmikz](../../autores/kmikz/) |

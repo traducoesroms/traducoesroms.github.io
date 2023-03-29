@@ -1,7 +1,5 @@
 # Asterix
 
-![Capa traduzida de Asterix](capa.jpg)
-
 ## Informações sobre o jogo
 
 | Tipo | Informação |

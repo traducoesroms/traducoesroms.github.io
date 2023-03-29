@@ -40,6 +40,7 @@
 | ----------- | ----------- | ----------- |
 | [https://patryckpo.com/traducoes/gb/adventure-island-2/](https://patryckpo.com/traducoes/gb/adventure-island-2/) | Sim | Sim |
 | [https://www.romhacking.net.br/index.php?topic=749](https://www.romhacking.net.br/index.php?topic=749) | Sim | Sim, porém é necessário realizar login |
+| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/adventure-island-ii-aliens-in-paradise.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/adventure-island-ii-aliens-in-paradise.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy/adventure-island-ii-aliens-in-paradise-patryck/](https://romhackers.org/traducoes/portatil/game-boy/adventure-island-ii-aliens-in-paradise-patryck/) | Não | Não |
 | [https://joao13traducoes.com/2018/07/gb-adventure-island-ii-patryck-e-ajkmetiuk/](https://joao13traducoes.com/2018/07/gb-adventure-island-ii-patryck-e-ajkmetiuk/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 

@@ -15,17 +15,20 @@
 
 | Tipo | Informação |
 | ----------- | ----------- |
-| Versão | 1\.0 |
-| Última versão | Não |
-| Observação | Vale destacar que o tradutor Gano lançou uma versão 1\.2 desta tradução pelo grupo Monkey’s Traduções\. Esta nova versão traz a tela de título e as palavras REST e SCORE traduzidas\. |
-| Data de Lançamento | 07/09/2008 |
-| Percentual traduzido | None% |
+| Versão | 1\.2 |
+| Última versão | Sim |
+| Data de Lançamento | 03/02/2009 |
+| Percentual traduzido | 100% |
 
 ## Autores
 
 | Autor(a) | Papel na tradução |
 | ----------- | ----------- |
 | [GANO](../../../autores/gano/) | Completo |
+
+## Grupos
+
+* [Monkey's Traduções](../../../grupos/monkeys-traducoes/)
 
 ## Informações sobre patching
 
@@ -37,11 +40,11 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/castlevania-ii-belmont-s-revenge.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/castlevania-ii-belmont-s-revenge.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy/castlevania-ii-belmonts-revenge-gano/](https://romhackers.org/traducoes/portatil/game-boy/castlevania-ii-belmonts-revenge-gano/) | Não | Não |
-| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/castlevania-ii-belmont-s-revenge.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/castlevania-ii-belmont-s-revenge.html) | Não | Sim, porém é uma versão antiga |
 
 ## Imagens da tradução
 
-![Imagem de exemplo da tradução 1](1.png)
-![Imagem de exemplo da tradução 2](2.png)
-![Imagem de exemplo da tradução 3](3.png)
+![Imagem de exemplo da tradução 1](1_JLkFjpI.png)
+![Imagem de exemplo da tradução 2](2_rHGxENi.png)
+![Imagem de exemplo da tradução 3](3_4sy42Uf.png)

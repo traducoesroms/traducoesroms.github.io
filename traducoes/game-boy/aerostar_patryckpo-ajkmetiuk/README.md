@@ -39,6 +39,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://patryckpo.com/traducoes/gb/aerostar/](https://patryckpo.com/traducoes/gb/aerostar/) | Sim | Sim |
+| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/aerostar.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/aerostar.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy/aerostar-patryck/](https://romhackers.org/traducoes/portatil/game-boy/aerostar-patryck/) | Não | Não |
 
 ## Imagens da tradução

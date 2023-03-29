@@ -39,6 +39,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net.br/index.php?topic=750](https://www.romhacking.net.br/index.php?topic=750) | Sim | Sim, porém é necessário realizar login |
+| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/takahashi-meijin-no-boukenjima-iii.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/takahashi-meijin-no-boukenjima-iii.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy/takahashi-meijin-no-boukenjima-iii-patryck/](https://romhackers.org/traducoes/portatil/game-boy/takahashi-meijin-no-boukenjima-iii-patryck/) | Não | Não |
 | [https://joao13traducoes.com/2018/07/gb-takahashi-meijin-no-boukenjima-iii-patryck-ajkmetiuk/](https://joao13traducoes.com/2018/07/gb-takahashi-meijin-no-boukenjima-iii-patryck-ajkmetiuk/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 

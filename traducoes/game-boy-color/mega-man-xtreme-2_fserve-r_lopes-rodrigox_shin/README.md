@@ -28,6 +28,10 @@
 | [R\_Lopes](../../../autores/r_lopes/) | Romhacking |
 | [RodrigoX\_Shin](../../../autores/rodrigox_shin/) | Tradução |
 
+## Grupos
+
+* [Tradu\-Roms](../../../grupos/tradu-roms/)
+
 ## Informações sobre patching
 
 | Aplicar o patch no arquivo | CRC32 Hash | MD5 Hash |

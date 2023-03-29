@@ -38,6 +38,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://patryckpo.com/traducoes/projetos/zool/](https://patryckpo.com/traducoes/projetos/zool/) | Sim | Sim |
+| [https://www.zophar.net/translations/gameboy/brazilian-portuguese/zool-ninja-of-the-nth-dimension.html](https://www.zophar.net/translations/gameboy/brazilian-portuguese/zool-ninja-of-the-nth-dimension.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy/zool-ninja-of-the-nth-dimension-patryck/](https://romhackers.org/traducoes/portatil/game-boy/zool-ninja-of-the-nth-dimension-patryck/) | Não | Não |
 
 ## Imagens da tradução
