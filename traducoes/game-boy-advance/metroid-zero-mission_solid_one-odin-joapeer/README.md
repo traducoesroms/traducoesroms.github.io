@@ -43,6 +43,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net/translations/5151/](https://www.romhacking.net/translations/5151/) | Não | Sim |
+| [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/metroid-zero-mission.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/metroid-zero-mission.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy-advance/metroid-zero-mission-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/metroid-zero-mission-trans-center/) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-metroid-zero-mission-trans-center/](https://joao13traducoes.com/2018/03/gba-metroid-zero-mission-trans-center/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 

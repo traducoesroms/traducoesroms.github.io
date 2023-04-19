@@ -41,6 +41,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net/translations/5153/](https://www.romhacking.net/translations/5153/) | Não | Sim |
+| [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero-4.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero-4.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy-advance/megaman-zero-4-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/megaman-zero-4-trans-center/) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-mega-man-zero-4-trans-center/](https://joao13traducoes.com/2018/03/gba-mega-man-zero-4-trans-center/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 

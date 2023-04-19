@@ -23,6 +23,7 @@
 | [Game Boy Color](../../traducoes/game-boy-color/) | [Pokémon - Silver Version](../../traducoes/game-boy-color/pokemon-silver-version_r_lopes-night_shadown-fserve/) | 1.4 | [Tradu\-Roms](../../grupos/tradu-roms/) | [R\_Lopes](../../autores/r_lopes/), [Night\_Shadown](../../autores/night_shadown/) e [Fserve](../../autores/fserve/) |
 | [Game Boy Color](../../traducoes/game-boy-color/) | [Pokémon Pinball](../../traducoes/game-boy-color/pokemon-pinball_raph_friend-night_shadown/) |  | [Tradu\-Roms](../../grupos/tradu-roms/) | [Raph\_friend](../../autores/raph_friend/) e [Night\_Shadown](../../autores/night_shadown/) |
 | [Game Boy Color](../../traducoes/game-boy-color/) | [Spider-Man 2 - The Sinister Six](../../traducoes/game-boy-color/spider-man-2-the-sinister-six_s-nes/) |  | [Tradu\-Roms](../../grupos/tradu-roms/) | [S\-NES](../../autores/s-nes/) |
+| [Game Boy Color](../../traducoes/game-boy-color/) | [Tetris DX](../../traducoes/game-boy-color/tetris-dx_raph_friend/) |  | [Tradu\-Roms](../../grupos/tradu-roms/) | [Raph\_friend](../../autores/raph_friend/) |
 | [Game Boy Color](../../traducoes/game-boy-color/) | [The Legend of Zelda - Oracle Of Seasons](../../traducoes/game-boy-color/the-legend-of-zelda-oracle-of-seasons_r_lopes-fserve/) |  | [Tradu\-Roms](../../grupos/tradu-roms/) | [R\_Lopes](../../autores/r_lopes/) e [Fserve](../../autores/fserve/) |
 
 ## Sites
