@@ -3,12 +3,21 @@
 | Jogo | Versão | Grupos | Autores |
 | ----------- | ----------- | ----------- | ----------- |
 | [Advance Wars](advance-wars_diegohh-knirt-marvin-dalkiri/) | Revisão 2 | [Monkey's Traduções](../../grupos/monkeys-traducoes/) | [DiegoHH](../../autores/diegohh/), [Knirt](../../autores/knirt/) e [Marvin Dalkiri](../../autores/marvin-dalkiri/) |
+| [Army Men Advance](army-men-advance_lohan/) |  | [Evil Darkness](../../grupos/evil-darkness/) | [Lohan](../../autores/lohan/) |
+| [Avatar - The Last Airbender](avatar-the-last-airbender_tony-paixao/) |  |  | [Tony Paixão](../../autores/tony-paixao/) |
 | [Banjo-Kazooie - Grunty's Revenge](banjo-kazooie-gruntys-revenge_fl_loko/) | 2.0 |  | [FL\_LOKO](../../autores/fl_loko/) |
+| [Batman - Rise of Sin Tzu](batman-rise-of-sin-tzu_mestre-splinter-goku-ssj4/) |  | [TransFac](../../grupos/transfac/) | [Mestre Splinter](../../autores/mestre-splinter/) e [Goku ssj4](../../autores/goku-ssj4/) |
 | [Batman Begins](batman-begins_breno-profanador-denim/) | 1.0 |  | [Breno](../../autores/breno/), [Profanador](../../autores/profanador/) e [Denim](../../autores/denim/) |
+| [BlackThorne](blackthorne_mr-magoo/) |  |  | [Mr\. Magoo](../../autores/mr-magoo/) |
 | [Bomberman Tournament](bomberman-tournament_odin-shadow_jake/) | 1.2 | [Hexagon](../../grupos/hexagon/) | [Odin](../../autores/odin/) e [\{Shadow\_Jake\}](../../autores/shadow_jake/) |
 | [Castlevania - Aria of Sorrow](castlevania-aria-of-sorrow_solid_one-et-al/) | 2.2 | [Trans\-Center](../../grupos/trans-center/) | [Solid\_One](../../autores/solid_one/), [spyblack](../../autores/spyblack/), [Fallen\_Soul](../../autores/fallen_soul/) e [Kmikz](../../autores/kmikz/) |
 | [Castlevania - Circle of the Moon](castlevania-circle-of-the-moon_solid_one-et-al/) | 1.0 | [Trans\-Center](../../grupos/trans-center/) e [PO\.B\.R\.E](../../grupos/pobre/) | [Solid\_One](../../autores/solid_one/), [Joapeer](../../autores/joapeer/), [Arara](../../autores/arara/) e [spyblack](../../autores/spyblack/) |
 | [Castlevania - Harmony of Dissonance](castlevania-harmony-of-dissonance_solid_one-et-al/) | 1.1 | [Trans\-Center](../../grupos/trans-center/) | [Solid\_One](../../autores/solid_one/), [Anime\_World](../../autores/anime_world/), [Darkl0rd](../../autores/darkl0rd/) e [Odin](../../autores/odin/) |
+| [Contra Advance - The Alien Wars EX](contra-advance-the-alien-wars-ex_dandy-br/) | 1.1 |  | [\#Dandy\-Br](../../autores/dandy-br/) |
+| [Contra Advance - The Alien Wars EX](contra-advance-the-alien-wars-ex_lohan/) | 1.0 | [Evil Darkness](../../grupos/evil-darkness/) | [Lohan](../../autores/lohan/) |
+| [Contra Advance - The Alien Wars EX](contra-advance-the-alien-wars-ex_x-carnage/) | 1.0 | [Lordroms Traduções](../../grupos/lordroms-traducoes/) e [Fox\-Roms](../../grupos/fox-roms/) | [ØX\-Carnage](../../autores/x-carnage/) |
+| [Crash Bandicoot 2 - N-Tranced](crash-bandicoot-2-n-tranced_darkpro/) |  |  | [DarkPro](../../autores/darkpro/) |
+| [Crash Bandicoot Fusion](crash-bandicoot-fusion_seven/) | 1.0 | [Tradu\-GameX](../../grupos/tradu-gamex/) | [Seven](../../autores/seven/) |
 | [Crash Bandicoot XS](crash-bandicoot-xs_s-nes/) |  | [Tradu\-Roms](../../grupos/tradu-roms/) | [S\-NES](../../autores/s-nes/) |
 | [Crazy Chase](crazy-chase_tiozinho-da-telesena-diegohh/) | 1.0 | [PO\.B\.R\.E](../../grupos/pobre/) | [Tiozinho da Telesena](../../autores/tiozinho-da-telesena/) e [DiegoHH](../../autores/diegohh/) |
 | [Dead to Rights](dead-to-rights_hnnewgames/) | 1.0 |  | [hnnewgames](../../autores/hnnewgames/) |
