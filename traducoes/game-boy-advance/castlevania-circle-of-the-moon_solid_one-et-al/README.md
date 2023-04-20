@@ -45,6 +45,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net/translations/5179/](https://www.romhacking.net/translations/5179/) | Não | Sim |
+| [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-circle-of-the-moon.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-circle-of-the-moon.html) | Não | Sim |
 | [https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-circle-of-the-moon-trans-center-e-po.b.r.e](https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-circle-of-the-moon-trans-center-e-po.b.r.e) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-castlevania-circle-of-the-moon-trans-center-e-pobre/](https://joao13traducoes.com/2018/03/gba-castlevania-circle-of-the-moon-trans-center-e-pobre/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 

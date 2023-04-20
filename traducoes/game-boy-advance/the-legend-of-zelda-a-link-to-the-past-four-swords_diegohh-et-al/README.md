@@ -55,9 +55,10 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.e4t.com.br/downloads/a-lenda-de-zelda-quatro-espadas-um-elo-com-o-passado/](https://www.e4t.com.br/downloads/a-lenda-de-zelda-quatro-espadas-um-elo-com-o-passado/) | Sim | Sim |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/) | Sim | Não |
 | [https://www.romhacking.net.br/index.php?topic=2287](https://www.romhacking.net.br/index.php?topic=2287) | Sim | Sim, porém é necessário realizar login |
 | [https://www.romhacking.net/translations/5277/](https://www.romhacking.net/translations/5277/) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/) | Não | Não |
+| [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/the-legend-of-zelda-a-link-to-the-past-four-swords.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/the-legend-of-zelda-a-link-to-the-past-four-swords.html) | Não | Sim |
 | [https://joao13traducoes.com/2018/03/gba-legend-of-zelda-link-to-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/](https://joao13traducoes.com/2018/03/gba-legend-of-zelda-link-to-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

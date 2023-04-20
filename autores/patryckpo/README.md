@@ -10,6 +10,7 @@
 | [Game Boy](../../traducoes/game-boy/) | [Takahashi Meijin no Boukenjima III](../../traducoes/game-boy/takahashi-meijin-no-boukenjima-iii_patryckpo-ajkmetiuk/) | 1.0 |  | [patryckpo](../../autores/patryckpo/) e [ajkmetiuk](../../autores/ajkmetiuk/) |
 | [Game Boy](../../traducoes/game-boy/) | [The Addams Family - Pugsley's Scavenger Hunt](../../traducoes/game-boy/the-addams-family-pugsleys-scavenger-hunt_patryckpo/) | 1.0 |  | [patryckpo](../../autores/patryckpo/) |
 | [Game Boy](../../traducoes/game-boy/) | [Zool - Ninja of the Nth Dimension](../../traducoes/game-boy/zool-ninja-of-the-nth-dimension_patryckpo/) | 0.7 |  | [patryckpo](../../autores/patryckpo/) |
+| [Game Boy Color](../../traducoes/game-boy-color/) | [Army Men](../../traducoes/game-boy-color/army-men_patryckpo/) | 0.9 |  | [patryckpo](../../autores/patryckpo/) |
 
 ## Sites
 
