@@ -8,7 +8,7 @@
 | Plataforma | [Game Boy Advance](../) |
 | Desenvolvedora | AlphaDream Corporation |
 | Distribuidora | Nintendo |
-| Gênero | RPG |
+| Gênero | RPG / Turno |
 | Data de Lançamento | 21/11/2003 |
 
 ## Informações sobre a tradução

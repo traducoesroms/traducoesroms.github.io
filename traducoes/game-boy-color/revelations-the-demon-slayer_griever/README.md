@@ -8,7 +8,7 @@
 | Plataforma | [Game Boy Color](../) |
 | Desenvolvedora | Atlus |
 | Distribuidora | Atlus |
-| Gênero | RPG |
+| Gênero | RPG / Turno |
 | Data de Lançamento | 27/08/1999 |
 
 ## Informações sobre a tradução

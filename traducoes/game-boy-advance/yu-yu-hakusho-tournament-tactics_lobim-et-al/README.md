@@ -45,9 +45,9 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/yu-yu-hakusho-tournament-tactics-monkeys-traducoes/](https://romhackers.org/traducoes/portatil/game-boy-advance/yu-yu-hakusho-tournament-tactics-monkeys-traducoes/) | Não | Sim |
 | [https://www.romhacking.net/translations/3361/](https://www.romhacking.net/translations/3361/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/yu-yu-hakusho-tournament-tactics.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/yu-yu-hakusho-tournament-tactics.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/yu-yu-hakusho-tournament-tactics-monkeys-traducoes/](https://romhackers.org/traducoes/portatil/game-boy-advance/yu-yu-hakusho-tournament-tactics-monkeys-traducoes/) | Não | Não |
 
 ## Imagens da tradução
 

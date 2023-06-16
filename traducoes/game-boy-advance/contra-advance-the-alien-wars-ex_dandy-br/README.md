@@ -36,8 +36,9 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-dandy-br/](https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-dandy-br/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/contra-advance-the-alien-wars-ex.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/contra-advance-the-alien-wars-ex.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-dandy-br/](https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-dandy-br/) | Não | Não |
+| [https://joao13traducoes.com/2022/03/gba-contra-advance-the-alien-wars-ex-dandy-br/](https://joao13traducoes.com/2022/03/gba-contra-advance-the-alien-wars-ex-dandy-br/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução
 

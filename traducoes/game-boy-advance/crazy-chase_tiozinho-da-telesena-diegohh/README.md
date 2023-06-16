@@ -41,8 +41,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/crazy-chase-po.b.r.e](https://romhackers.org/traducoes/portatil/game-boy-advance/crazy-chase-po.b.r.e) | Sim | Sim |
 | [https://tiozinhopobre.wixsite.com/repositorio](https://tiozinhopobre.wixsite.com/repositorio) | Sim | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/crazy-chase-po.b.r.e](https://romhackers.org/traducoes/portatil/game-boy-advance/crazy-chase-po.b.r.e) | Sim | Não |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crazy-chase.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crazy-chase.html) | Não | Sim |
 
 ## Imagens da tradução

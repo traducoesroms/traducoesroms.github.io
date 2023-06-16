@@ -8,7 +8,7 @@
 | Plataforma | [Nintendo DS](../) |
 | Desenvolvedora | AlphaDream Corporation |
 | Distribuidora | Nintendo |
-| Gênero | RPG |
+| Gênero | RPG / Turno |
 | Data de Lançamento | 11/02/2009 |
 
 ## Informações sobre a tradução

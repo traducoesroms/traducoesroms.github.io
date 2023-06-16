@@ -39,8 +39,9 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/army-men-advance-evil-darkness/](https://romhackers.org/traducoes/portatil/game-boy-advance/army-men-advance-evil-darkness/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/army-men-advance.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/army-men-advance.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/army-men-advance-evil-darkness/](https://romhackers.org/traducoes/portatil/game-boy-advance/army-men-advance-evil-darkness/) | Não | Não |
+| [https://joao13traducoes.com/2022/03/gba-army-men-advance-evil-darkness/](https://joao13traducoes.com/2022/03/gba-army-men-advance-evil-darkness/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução
 

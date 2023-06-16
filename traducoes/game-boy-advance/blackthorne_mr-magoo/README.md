@@ -35,8 +35,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/blackthorne-mr.magoo/](https://romhackers.org/traducoes/portatil/game-boy-advance/blackthorne-mr.magoo/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/blackthorne.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/blackthorne.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/blackthorne-mr.magoo/](https://romhackers.org/traducoes/portatil/game-boy-advance/blackthorne-mr.magoo/) | Não | Não |
 
 ## Imagens da tradução
 

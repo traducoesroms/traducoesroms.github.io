@@ -40,8 +40,8 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://traduroms.github.io/tr/tradus/crash.htm](https://traduroms.github.io/tr/tradus/crash.htm) | Sim | Sim |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-xs-tradu-roms/](https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-xs-tradu-roms/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-xs.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-xs.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-xs-tradu-roms/](https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-xs-tradu-roms/) | Não | Não |
 | [https://joao13traducoes.com/2022/03/gba-crash-bandicoot-xs-tradu-roms/](https://joao13traducoes.com/2022/03/gba-crash-bandicoot-xs-tradu-roms/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

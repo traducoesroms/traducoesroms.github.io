@@ -1,0 +1,16 @@
+# Nintendo BR
+
+## Traduções
+
+| Plataforma | Jogo | Versão | Grupos | Autores |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Breath of Fire II](../../traducoes/game-boy-advance/breath-of-fire-ii_kamppello-et-al/) | 1.0 | [Nintendo BR](../../grupos/nintendo-br/) | [Kamppello](../../autores/kamppello/), [Fou\-Lu](../../autores/fou-lu/), [Colt\_93](../../autores/colt_93/), [Kretzer](../../autores/kretzer/), [Dorzer](../../autores/dorzer/), [Fred](../../autores/fred/), [Deid](../../autores/deid/), [wazyu](../../autores/wazyu/) e [Giuliano Vieira](../../autores/giuliano-vieira/) |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Donkey Kong Country 3](../../traducoes/game-boy-advance/donkey-kong-country-3_kamppello/) | 1.0 | [Nintendo BR](../../grupos/nintendo-br/) | [Kamppello](../../autores/kamppello/) |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [Rayman 3](../../traducoes/game-boy-advance/rayman-3_kamppello-l-slayer/) | 1.0 | [Nintendo BR](../../grupos/nintendo-br/) | [Kamppello](../../autores/kamppello/) e [L\-Slayer](../../autores/l-slayer/) |
+
+## Sites
+
+| Site | Ativo |
+| ----------- | ----------- |
+| [https://nbr-traducoes.blogspot.com/](https://nbr-traducoes.blogspot.com/) | Sim |
+| [https://romhacking.forumbrasil.net/](https://romhacking.forumbrasil.net/) | Sim |

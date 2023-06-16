@@ -45,9 +45,9 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net.br/index.php?topic=370](https://www.romhacking.net.br/index.php?topic=370) | Sim | Sim, porém é necessário realizar login |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-aria-of-sorrow-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-aria-of-sorrow-trans-center/) | Não | Sim |
 | [https://www.romhacking.net/translations/5167/](https://www.romhacking.net/translations/5167/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-aria-of-sorrow.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-aria-of-sorrow.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-aria-of-sorrow-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-aria-of-sorrow-trans-center/) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-castlevania-circle-of-the-moon-trans-center-e-pobre/](https://joao13traducoes.com/2018/03/gba-castlevania-circle-of-the-moon-trans-center-e-pobre/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

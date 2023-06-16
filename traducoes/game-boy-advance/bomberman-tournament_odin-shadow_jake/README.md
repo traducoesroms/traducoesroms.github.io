@@ -41,8 +41,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/bomberman-tournament-hexagon/](https://romhackers.org/traducoes/portatil/game-boy-advance/bomberman-tournament-hexagon/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/portuguese/bomberman-tournament.html](https://www.zophar.net/translations/gameboy-advance/portuguese/bomberman-tournament.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/bomberman-tournament-hexagon/](https://romhackers.org/traducoes/portatil/game-boy-advance/bomberman-tournament-hexagon/) | Não | Não |
 | [https://joao13traducoes.com/2022/03/gba-bomberman-tournament-hexagon/](https://joao13traducoes.com/2022/03/gba-bomberman-tournament-hexagon/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

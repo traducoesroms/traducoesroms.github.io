@@ -37,7 +37,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net.br/index.php?topic=507](https://www.romhacking.net.br/index.php?topic=507) | Sim | Sim, porém é necessário realizar login |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/banjo-kazooie-gruntys-revenge-fl-loko/](https://romhackers.org/traducoes/portatil/game-boy-advance/banjo-kazooie-gruntys-revenge-fl-loko/) | Não | Não |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/banjo-kazooie-gruntys-revenge-fl-loko/](https://romhackers.org/traducoes/portatil/game-boy-advance/banjo-kazooie-gruntys-revenge-fl-loko/) | Não | Sim |
 | [https://joao13traducoes.com/2018/02/gba-banjo-kazooie-grunty-revenge-fl-loko/](https://joao13traducoes.com/2018/02/gba-banjo-kazooie-grunty-revenge-fl-loko/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

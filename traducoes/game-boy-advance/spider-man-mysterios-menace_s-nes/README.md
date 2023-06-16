@@ -40,8 +40,8 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://traduroms.github.io/tr/tradus/spidegba.htm](https://traduroms.github.io/tr/tradus/spidegba.htm) | Sim | Sim |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/spider-man-mysterios-menace-tradu-roms/](https://romhackers.org/traducoes/portatil/game-boy-advance/spider-man-mysterios-menace-tradu-roms/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/portuguese/spider-man-mysterio-s-menace.html](https://www.zophar.net/translations/gameboy-advance/portuguese/spider-man-mysterio-s-menace.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/spider-man-mysterios-menace-tradu-roms/](https://romhackers.org/traducoes/portatil/game-boy-advance/spider-man-mysterios-menace-tradu-roms/) | Não | Não |
 
 ## Imagens da tradução
 

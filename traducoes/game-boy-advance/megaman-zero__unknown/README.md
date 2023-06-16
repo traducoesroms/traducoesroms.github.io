@@ -41,8 +41,8 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://traduroms.github.io/tr/tradus/mmz.htm](https://traduroms.github.io/tr/tradus/mmz.htm) | Sim | Sim |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/megaman-zero-tradu-roms/](https://romhackers.org/traducoes/portatil/game-boy-advance/megaman-zero-tradu-roms/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/megaman-zero-tradu-roms/](https://romhackers.org/traducoes/portatil/game-boy-advance/megaman-zero-tradu-roms/) | Não | Não |
 
 ## Imagens da tradução
 

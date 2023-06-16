@@ -8,7 +8,7 @@
 | Plataforma | [Game Boy](../) |
 | Desenvolvedora | Bandai |
 | Distribuidora | Bandai |
-| Gênero | RPG |
+| Gênero | RPG / Turno |
 | Data de Lançamento | 21/07/2002 |
 
 ## Informações sobre a tradução

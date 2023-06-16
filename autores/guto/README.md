@@ -4,10 +4,4 @@
 
 | Plataforma | Jogo | Versão | Grupos | Autores |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Game Boy](../../traducoes/game-boy/) | [Asterix](../../traducoes/game-boy/asterix_guto/) |  |  | [Guto](../../autores/guto/) |
-
-## Sites
-
-| Site | Ativo |
-| ----------- | ----------- |
-| [http://www.gutotraducoes.cjb.net](http://www.gutotraducoes.cjb.net) | Não |
+| [Game Boy Advance](../../traducoes/game-boy-advance/) | [The Land Before Time](../../traducoes/game-boy-advance/the-land-before-time_guto/) | 1.0 | [EmuBrazil](../../grupos/emubrazil/) | [Guto](../../autores/guto/) |

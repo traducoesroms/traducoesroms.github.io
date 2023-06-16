@@ -51,10 +51,10 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/metroid-fusion-tradu-roms-trans-center-e-po.b.r.e](https://romhackers.org/traducoes/portatil/game-boy-advance/metroid-fusion-tradu-roms-trans-center-e-po.b.r.e) | Sim | Sim |
 | [https://www.romhacking.net/translations/5156/](https://www.romhacking.net/translations/5156/) | Sim | Sim |
 | [https://traduroms.github.io/tr/tradus/metroid.htm](https://traduroms.github.io/tr/tradus/metroid.htm) | Sim | Sim, porém é uma versão antiga |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/metroid-fusion.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/metroid-fusion.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/metroid-fusion-tradu-roms-trans-center-e-po.b.r.e](https://romhackers.org/traducoes/portatil/game-boy-advance/metroid-fusion-tradu-roms-trans-center-e-po.b.r.e) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-metroid-fusion-tradu-roms-trans-center-e-pobre/](https://joao13traducoes.com/2018/03/gba-metroid-fusion-tradu-roms-trans-center-e-pobre/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução
