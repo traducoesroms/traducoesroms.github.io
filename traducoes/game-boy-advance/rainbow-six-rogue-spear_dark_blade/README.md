@@ -40,8 +40,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/rainbow-six-rogue-spear-evil-darkness/](https://romhackers.org/traducoes/portatil/game-boy-advance/rainbow-six-rogue-spear-evil-darkness/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/portuguese/rainbow-six-rogue-spear.html](https://www.zophar.net/translations/gameboy-advance/portuguese/rainbow-six-rogue-spear.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/rainbow-six-rogue-spear-evil-darkness/](https://romhackers.org/traducoes/portatil/game-boy-advance/rainbow-six-rogue-spear-evil-darkness/) | Não | Não |
 
 ## Imagens da tradução
 

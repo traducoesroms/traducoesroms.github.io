@@ -42,8 +42,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/advance-wars-monkeys-traducoes/](https://romhackers.org/traducoes/portatil/game-boy-advance/advance-wars-monkeys-traducoes/) | Não | Sim |
 | [https://www.romhacking.net/translations/1480/](https://www.romhacking.net/translations/1480/) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/advance-wars-monkeys-traducoes/](https://romhackers.org/traducoes/portatil/game-boy-advance/advance-wars-monkeys-traducoes/) | Não | Não |
 
 ## Imagens da tradução
 

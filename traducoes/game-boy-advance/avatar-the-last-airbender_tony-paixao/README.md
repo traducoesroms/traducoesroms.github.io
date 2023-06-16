@@ -35,8 +35,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/avatar-the-last-airbender-tony-paixao/](https://romhackers.org/traducoes/portatil/game-boy-advance/avatar-the-last-airbender-tony-paixao/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/avatar-the-last-airbender.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/avatar-the-last-airbender.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/avatar-the-last-airbender-tony-paixao/](https://romhackers.org/traducoes/portatil/game-boy-advance/avatar-the-last-airbender-tony-paixao/) | Não | Não |
 
 ## Imagens da tradução
 

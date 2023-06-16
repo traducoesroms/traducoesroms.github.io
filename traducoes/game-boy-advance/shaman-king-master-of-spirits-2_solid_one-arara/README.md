@@ -41,9 +41,9 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/shaman-king-master-of-spirits-2-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/shaman-king-master-of-spirits-2-trans-center/) | Não | Sim |
 | [https://www.romhacking.net/translations/5183/](https://www.romhacking.net/translations/5183/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/shaman-king-master-of-spirits-2.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/shaman-king-master-of-spirits-2.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/shaman-king-master-of-spirits-2-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/shaman-king-master-of-spirits-2-trans-center/) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-shaman-king-master-of-spirits-2-trans-center/](https://joao13traducoes.com/2018/03/gba-shaman-king-master-of-spirits-2-trans-center/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

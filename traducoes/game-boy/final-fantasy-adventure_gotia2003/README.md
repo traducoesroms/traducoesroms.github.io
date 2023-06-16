@@ -8,7 +8,7 @@
 | Plataforma | [Game Boy](../) |
 | Desenvolvedora | Squaresoft |
 | Distribuidora | Squaresoft |
-| Gênero | RPG |
+| Gênero | RPG / Turno |
 | Data de Lançamento | 28/06/1991 |
 
 ## Informações sobre a tradução

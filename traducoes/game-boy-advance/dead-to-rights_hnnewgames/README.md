@@ -39,7 +39,7 @@
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net.br/index.php?topic=535](https://www.romhacking.net.br/index.php?topic=535) | Sim | Sim |
 | [https://hnnewgamesofficial.blogspot.com/2018/02/dead-to-rights-portugues-gba.html](https://hnnewgamesofficial.blogspot.com/2018/02/dead-to-rights-portugues-gba.html) | Sim | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/dead-to-rights-hnnewgames/](https://romhackers.org/traducoes/portatil/game-boy-advance/dead-to-rights-hnnewgames/) | Não | Não |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/dead-to-rights-hnnewgames/](https://romhackers.org/traducoes/portatil/game-boy-advance/dead-to-rights-hnnewgames/) | Não | Sim |
 | [https://joao13traducoes.com/2018/02/gba-dead-to-rights-hnnewgames/](https://joao13traducoes.com/2018/02/gba-dead-to-rights-hnnewgames/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

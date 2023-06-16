@@ -8,7 +8,7 @@
 | Plataforma | [Game Boy Color](../) |
 | Desenvolvedora | Game Freak |
 | Distribuidora | Nintendo |
-| Gênero | RPG |
+| Gênero | RPG / Turno |
 | Data de Lançamento | 21/11/1999 |
 
 ## Informações sobre a tradução

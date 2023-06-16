@@ -40,8 +40,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/batman-rise-of-sin-tzu-transfac/](https://romhackers.org/traducoes/portatil/game-boy-advance/batman-rise-of-sin-tzu-transfac/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/batman-rise-of-sin-tzu.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/batman-rise-of-sin-tzu.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/batman-rise-of-sin-tzu-transfac/](https://romhackers.org/traducoes/portatil/game-boy-advance/batman-rise-of-sin-tzu-transfac/) | Não | Não |
 
 ## Imagens da tradução
 

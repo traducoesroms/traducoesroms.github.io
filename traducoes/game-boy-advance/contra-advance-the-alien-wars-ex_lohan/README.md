@@ -40,8 +40,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-evil-darkness/](https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-evil-darkness/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/contra-advance-the-alien-wars-ex-exj.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/contra-advance-the-alien-wars-ex-exj.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-evil-darkness/](https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-evil-darkness/) | Não | Não |
 
 ## Imagens da tradução
 

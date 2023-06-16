@@ -56,8 +56,8 @@
 | [https://www.romhacking.net/translations/5249/](https://www.romhacking.net/translations/5249/) | Sim | Sim |
 | [https://www.e4t.com.br/downloads/a-lenda-de-zelda-o-gorro-minimizador/](https://www.e4t.com.br/downloads/a-lenda-de-zelda-o-gorro-minimizador/) | Sim | Sim |
 | [https://www.romhacking.net.br/index.php?topic=2288](https://www.romhacking.net.br/index.php?topic=2288) | Sim | Sim, porém é necessário realizar login |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda-the-minish-cap-trans-center-po.b.r.e.-e-projeto-br/](https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda-the-minish-cap-trans-center-po.b.r.e.-e-projeto-br/) | Sim | Sim, porém é uma versão antiga |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/the-legend-of-zelda-the-minish-cap.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/the-legend-of-zelda-the-minish-cap.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda-the-minish-cap-trans-center-po.b.r.e.-e-projeto-br/](https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda-the-minish-cap-trans-center-po.b.r.e.-e-projeto-br/) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-legend-of-zelda-minish-cap-heroes-of-time-trans-center-pobre-e-projeto-br/](https://joao13traducoes.com/2018/03/gba-legend-of-zelda-minish-cap-heroes-of-time-trans-center-pobre-e-projeto-br/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

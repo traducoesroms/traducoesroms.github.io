@@ -43,9 +43,9 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-harmony-of-dissonance-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-harmony-of-dissonance-trans-center/) | Não | Sim |
 | [https://www.romhacking.net/translations/5178/](https://www.romhacking.net/translations/5178/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-harmony-of-dissonance.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-harmony-of-dissonance.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-harmony-of-dissonance-trans-center/](https://romhackers.org/traducoes/portatil/game-boy-advance/castlevania-harmony-of-dissonance-trans-center/) | Não | Não |
 | [https://joao13traducoes.com/2018/03/gba-castlevania-harmony-of-dissonance-trans-center/](https://joao13traducoes.com/2018/03/gba-castlevania-harmony-of-dissonance-trans-center/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

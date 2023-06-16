@@ -6,7 +6,7 @@
 | ----------- | ----------- |
 | Nome | SimCity 2000 |
 | Plataforma | [Game Boy Advance](../) |
-| Desenvolvedora | Destination Software |
+| Desenvolvedora | Destination Software (DSI Games) |
 | Distribuidora | Activision |
 | Gênero | Simulação |
 | Data de Lançamento | 30/11/2003 |

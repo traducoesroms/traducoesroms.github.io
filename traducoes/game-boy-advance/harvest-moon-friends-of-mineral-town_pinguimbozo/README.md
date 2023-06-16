@@ -38,7 +38,7 @@
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
 | [https://www.romhacking.net.br/index.php?topic=1659](https://www.romhacking.net.br/index.php?topic=1659) | Sim | Sim, porém é necessário realizar login |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/harvest-moon-friends-of-mineral-town-pinguimbozo/](https://romhackers.org/traducoes/portatil/game-boy-advance/harvest-moon-friends-of-mineral-town-pinguimbozo/) | Não | Não |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/harvest-moon-friends-of-mineral-town-pinguimbozo/](https://romhackers.org/traducoes/portatil/game-boy-advance/harvest-moon-friends-of-mineral-town-pinguimbozo/) | Não | Sim, porém é uma versão antiga |
 | [https://joao13traducoes.com/2021/07/gba-harvest-moon-friends-of-mineral-town-pinguimbozo/](https://joao13traducoes.com/2021/07/gba-harvest-moon-friends-of-mineral-town-pinguimbozo/) | Não | Sim, porém o arquivo ou página de download exige uma senha |
 
 ## Imagens da tradução

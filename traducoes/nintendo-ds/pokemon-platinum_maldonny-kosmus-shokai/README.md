@@ -8,7 +8,7 @@
 | Plataforma | [Nintendo DS](../) |
 | Desenvolvedora | Game Freak |
 | Distribuidora | Nintendo |
-| Gênero | RPG |
+| Gênero | RPG / Turno |
 | Data de Lançamento | 22/03/2009 |
 
 ## Informações sobre a tradução

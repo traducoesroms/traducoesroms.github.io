@@ -35,8 +35,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-2-n-tranced-darkpro/](https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-2-n-tranced-darkpro/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-2-n-tranced.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-2-n-tranced.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-2-n-tranced-darkpro/](https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-2-n-tranced-darkpro/) | Não | Não |
 
 ## Imagens da tradução
 

@@ -40,8 +40,8 @@
 
 | URL | Oficial (publicado pelos autores) | Possuí link de download |
 | ----------- | ----------- | ----------- |
+| [https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-fusion-tradu-gamex/](https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-fusion-tradu-gamex/) | Não | Sim |
 | [https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-fusion.html](https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-fusion.html) | Não | Sim |
-| [https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-fusion-tradu-gamex/](https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-fusion-tradu-gamex/) | Não | Não |
 
 ## Imagens da tradução
 
